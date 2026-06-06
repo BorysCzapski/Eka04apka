@@ -10505,4 +10505,1221 @@
       "2 502,56 zł"
     ],
     "correct": 2
+  },{
+    "categoryName": "Rachunkowość",
+    "text": "Na podstawie danych zamieszczonych w tabeli oblicz dla pracownika zatrudnionego w dziale kadr wynagrodzenie za pracę w godzinach nadliczbowych wraz z należnym 50% dodatkiem.  Pracownik działu kadrWynagrodzenie zasadnicze4 800,00 złWymiar czasu pracy w miesiącu160 godzinLiczba godzin nadliczbowych przepracowanych w dni robocze4 godzinyLiczba godzin przepracowanych w miesiącu164 godziny",
+    "options": [
+      "234,16 zł",
+      "240,00 zł",
+      "180,00 zł",
+      "175,62 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Przedstawiony fragment zapisu dotyczy umowy  n n nn„... to system sprzedaży towarów, usług lub technologii, oparty na ścisłej i ciągłej współpracy pomiędzy niezależnymi przedsiębiorstwami. W ramach zawartej umowy jedna ze stron ma prawo do korzystania z nazwy handlowej, znaku towarowego lub usługowego, know-how, metod prowadzenia działalności gospodarczej, wiedzy technicznej, systemu postępowania i innych praw własności intelektualnej lub przemysłowej, a także do korzystania ze stałej pomocy handlowej i technicznej.\"",
+    "options": [
+      "leasingu.",
+      "sponsoringu.",
+      "franchisingu.",
+      "outsourcingu."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Jakie zadanie nie należy do kompetencji Narodowego Banku Polskiego?",
+    "options": [
+      "zarządzanie rezerwami dewizowymi",
+      "wydawanie znaków pieniężnych",
+      "prowadzenie obsługi bankowej budżetu państwa",
+      "prowadzenie obsługi bankowej dla przedsiębiorstw"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Zgodnie z zasadą proporcjonalności przychodów oraz związanych z nimi wydatków, czynsz zapłacony w styczniu 2009 roku z tytułu najmu lokalu użytkowego na lata 2009 i 2010 klasyfikuje się do",
+    "options": [
+      "aktywów - jako czynne rozliczenia międzyokresowe",
+      "aktywów - jako bierne rozliczenia międzyokresowe",
+      "pasywów - jako czynne rozliczenia międzyokresowe",
+      "pasywów - jako bierne rozliczenia międzyokresowe"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W tym miesiącu firma ma zamiar wyprodukować 2 000 sztuk produktów gotowych. Norma zużycia materiału na jeden produkt wynosi 0,7 kg. Zapasy początkowe materiału wynoszą 300 kg, a planowane zapasy końcowe to 250 kg. Ile kilogramów materiału powinno zostać zakupionych, aby zrealizować plan produkcji na ten miesiąc?",
+    "options": [
+      "1 450 kg",
+      "1 350 kg",
+      "1 950 kg",
+      "850 kg"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Posługując się tabelą zawierającą stawki podatku od czynności cywilnoprawnych oblicz, ile wyniesie podatek od umowy pożyczki zawartej na kwotę 23 000 zł.  Tytuł podatkuStawka podatkuOd umowy sprzedaży:1) nieruchomości, rzeczy ruchomych, prawa użytkowania wieczystego, własnościowego spółdzielczego prawa do lokalu mieszkalnego, użytkowego oraz wynikających z przepisów prawa spółdzielczego: prawa do domu jednorodzinnego oraz prawa do lokalu w małym domu mieszkalnym2) od innych praw majątkowych2%1%Od umowy:1) odpłatnego użytkowania, w tym również nieprawidłowego oraz odpłatnej służebności2) pożyczki oraz depozytu nieprawidłowego3) od umów spółki1%2%0,5%Od ustanowienia hipoteki:na zabezpieczenie wierzytelności istniejącejna zabezpieczenie wierzytelności istniejącej o nieustalonej wartości0,1%19 zł",
+    "options": [
+      "11,50 zł",
+      "230,00 zł",
+      "460,00 zł",
+      "23,00 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W zakładzie produkcyjnym w maju 2014 roku wytworzono 2 500 sztuk wyrobów gotowych. W trakcie produkcji pozostało 2 000 sztuk wyrobów, które zostały wykonane w 50%. Jaką liczbę jednostek umownych należy przyjąć, aby obliczyć koszt jednostkowy?",
+    "options": [
+      "4 500",
+      "3 500",
+      "1 000",
+      "2 500"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Kto z wymienionych podmiotów powinien zostać zarejestrowany w Krajowym Rejestrze Sądowym jako przedsiębiorca?",
+    "options": [
+      "Gospodarstwo Rolne Jan Kowalski",
+      "Zakład Krawiecki J. Kos, I. Sus s.c",
+      "Zakład Blacharski Piotr Nowak",
+      "Przedsiębiorstwo Handlowe Spółka Akcyjna"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Określenie poziomu stóp procentowych przez Narodowy Bank Polski stanowi jedno z obowiązków",
+    "options": [
+      "Sejmu i Senatu",
+      "Rady Polityki Pieniężnej",
+      "Bankowego Funduszu Gwarancyjnego",
+      "Ministra Finansów"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W poprawnie przygotowanym zestawieniu obrotów oraz sald powinna być spełniona taka relacja",
+    "options": [
+      "saldo Dt = saldo Ct",
+      "saldo Dt > saldo Ct",
+      "obroty Dt = saldo Ct",
+      "obroty Dt < saldo Ct"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Właściciel firmy planuje zlecić osobie spoza swojego zespołu stworzenie logo przedsiębiorstwa. Jaką umowę powinien zawrzeć z wykonawcą logo?",
+    "options": [
+      "Umowę o dzieło",
+      "Umowę-zlecenie",
+      "Umowę o pracę",
+      "Umowę agencyjną"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Usługi mające na celu ochronę, ratowanie, przywracanie oraz poprawę stanu zdrowia, świadczone w sytuacji wystąpienia choroby, urazu, ciąży, porodu i połogu, a także w ramach działań mających na celu prewencję chorób oraz promocję zdrowia, to usługi objęte powszechnym ubezpieczeniem",
+    "options": [
+      "chorobowym",
+      "wypadkowym",
+      "zdrowotnym",
+      "rentowym"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "W planowaniu uznanie, że do celów można dotrzeć na różne sposoby i z użyciem różnych zasobów, określa się mianem",
+    "options": [
+      "zasady gospodarności",
+      "zasady podstawowego ogniwa",
+      "zasady koncentracji",
+      "zasady alternatywnych rozwiązań"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Jan Nowak, mający 30 lat, jest zatrudniony na podstawie umowy o pracę. Od 1.10.br do 5.11.br przebywał na pierwszym w bieżącym roku zwolnieniu lekarskim z powodu niezdolności do pracy spowodowanej chorobą. Od którego dnia niezdolności do pracy pracownik będzie otrzymywał zasiłek chorobowy finansowany przez ZUS?",
+    "options": [
+      "Od 15 dnia niezdolności do pracy",
+      "Od 10 dnia niezdolności do pracy",
+      "Od 36 dnia niezdolności do pracy",
+      "Od 34 dnia niezdolności do pracy"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W Hurtowni Artykułów Biurowych Rysik sp. z o.o. wykryto braki w ilości 10 tonerów po 70 zł/szt. oraz 6 ryz papieru ksero po 10 zł/ryzę. Pracownik przyjął do wiadomości niedobór i zgodził się na jego pokrycie. Oblicz kwotę, którą pracownik ma uiścić, wiedząc, że hurtownia stosuje marżę 20% na cenę zakupu.",
+    "options": [
+      "912 zł",
+      "760 zł",
+      "700 zł",
+      "840 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W 2013 roku spółka planuje zwiększenie stanu aktywów trwałych o 50 tys. zł i zmniejszenie stanu zobowiązań o 120 tys. zł w stosunku do stanu z dnia 31.12.2012 r. Jaki zysk musi wygospodarować spółka, aby zachować w bilansie za 2013 r. stan równowagi bilansowej?  Fragment bilansu spółki z o.o. na dzień 31.12.2012 r.AktywaWartość (w tys. zł)PasywaWartość (w tys. zł)Aktywa trwałe500Kapitały własne400Aktywa obrotowe200Zobowiązania300Suma bilansowa700Suma bilansowa700",
+    "options": [
+      "170 tys. zł",
+      "100 tys. zł",
+      "70 tys. zł",
+      "120 tys. zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Pracownik otrzymuje wynagrodzenie zasadnicze w wysokości 2 200,00 zł, dodatek stażowy w wysokości 10% oraz premię, która jest uzależniona od liczby zawartych umów z klientami. Ile wyniesie łączne wynagrodzenie brutto pracownika, jeżeli w bieżącym miesiącu zawarł 16 umów z klientami?  Liczba zawartych umów z klientami w miesiącuWysokość premii1-55%6-1010%11-1515%16-2020%",
+    "options": [
+      "2 420,00 zł",
+      "2 750,00 zł",
+      "2 640,00 zł",
+      "2 860,00 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Firma wyprodukowała 300 sztuk wyrobów gotowych oraz 100 sztuk wyrobów przerobionych w 60%. Całkowite koszty produkcji wyniosły 36 000 zł. Jaka jest jednostkowa cena wytworzenia wyrobu gotowego?",
+    "options": [
+      "120 zł",
+      "360 zł",
+      "100 zł",
+      "90 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W tabeli kalkulacyjnej podano koszty dotyczące dwóch zleceń produkcyjnych. Zlecenie 1 obejmuje wytworzenie 100 sztuk wyrobów A, natomiast zlecenie 2 wytworzenie 200 sztuk wyrobu B Jednostkowy techniczny koszt wytworzenia wyrobu A i wyrobu B wynosi odpowiednio  Pozycje kalkulacyjneZlecenie 1Zlecenie 2Koszty bezpośrednie4 000,008 000,00Koszty pośrednie2 000,004 000,00Techniczny koszt wytworzenia6 000,0012 000,00",
+    "options": [
+      "60 złotych i 120 złotych.",
+      "40 złotych i 40 złotych.",
+      "60 złotych i 60 złotych.",
+      "20 złotych i 80 złotych."
+    ],
+    "correct": 2
+  }, {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Właściciel warsztatu samochodowego stara się o kredyt obrotowy na finansowanie codziennej działalności. Gdzie powinien złożyć swoje podanie o kredyt?",
+    "options": [
+      "W kasie prywatnych przedsiębiorców",
+      "W banku centralnym",
+      "W kasie zapomogowo-pożyczkowej",
+      "W banku komercyjnym"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Bezpieczeństwo i higiena pracy",
+    "text": "Gdy w miejscu pracy występuje uciążliwy hałas generowany przez maszyny i urządzenia, to pracownik, aby chronić się przed jego negatywnym oddziaływaniem, powinien zostać wyposażony",
+    "options": [
+      "w okulary ochronne",
+      "w nauszniki",
+      "w rękawice",
+      "w osłony siatkowe"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Jaką metodę opodatkowania dochodów z wykonywanej działalności gospodarczej wybrał przedsiębiorca, jeśli nalicza podatek dochodowy od osób fizycznych według stawek 18% oraz 32%?",
+    "options": [
+      "Podatek według skali podatkowej na zasadach ogólnych",
+      "Kartę podatkową",
+      "Ryczałt od przychodów ewidencjonowanych",
+      "Podatek liniowy na zasadach ogólnych"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "właściciel butiku odzieżowego przyjął dostawę zamówionych produktów. W ewidencji przychodów i wydatków koszty transportu zamówionych produktów będą uwzględnione w kategorii",
+    "options": [
+      "pozostałe wydatki",
+      "koszty uboczne zakupu",
+      "zakup towarów handlowych i materiałów",
+      "wartość sprzedanych towarów i usług"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Marketing i zarządzanie",
+    "text": "Skierowanie komunikatów do starannie dobranych, pojedynczych klientów, często w osobistym kontakcie za pomocą poczty, telefonu, Internetu lub faxu, w celu uzyskania bezpośredniej reakcji, to",
+    "options": [
+      "marketing-mix",
+      "publicity",
+      "marketing bezpośredni",
+      "public relations"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Podczas wydawania towarów z magazynu do produkcji, pracownik magazynu sporządził dokument RW. Jakiej informacji nie był zobowiązany w nim uwzględnić?",
+    "options": [
+      "Ilości zapasu",
+      "Przeznaczenia wydanych materiałów",
+      "Środka transportu",
+      "Żądanej ilości materiałów"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Grupa doradców podatkowych zamierza wspólnie prowadzić działalność gospodarczą. Jaką formę spółki powinni wybrać, aby nie odpowiadać za długi spółki wynikające z działalności wolnego zawodu wykonywanej przez innych wspólników?",
+    "options": [
+      "Spółkę z ograniczoną odpowiedzialnością",
+      "Spółkę komandytową",
+      "Spółkę jawną",
+      "Spółkę partnerską"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Firma \"Galant\" specjalizuje się w produkcji obuwia skórzanego. W bilansie skóra nabyta do wytwarzania zostanie zakwalifikowana jako",
+    "options": [
+      "materiały na magazynie",
+      "aktywa trwałe",
+      "wartości niematerialne oraz prawne",
+      "inwestycje o krótkim czasie trwania"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Na podstawie danych zamieszczonych w tabeli określ, które przedsiębiorstwo może mieć problem z bieżącym regulowaniem zobowiązań krótkoterminowych ze względu na zbyt niski poziom wskaźnika bieżącej płynności.  Wybrane składniki bilansu w czterech przedsiębiorstwachWyszczególnieniePrzedsiębiorstwoA.B.C.D.Aktywa obrotowe (w zł)20 000,0098 000,0045 000,0085 000,00Zobowiązania bieżące (w zł)25 000,0060 000,0030 000,0055 000,00",
+    "options": [
+      "A.",
+      "C.",
+      "D.",
+      "B."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Kto składa formularz PIT-37 w przypadku uzyskiwania",
+    "options": [
+      "przychodów z pozarolniczej działalności gospodarczej",
+      "dochodów ze źródeł znajdujących się za granicą",
+      "przychodów z tytułu umowy o pracę",
+      "dochodu z wynajmu nieruchomości"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W zamieszczonej tabeli przedstawiono strukturę zapasów magazynowych w fabryce zajmującej się produkcją okien. Jaki udział w zapasach stanowią materiały podstawowe?  Nazwa zapasuUdział %Szyby okienne12%Ramy okienne10%Zamki do okien3%Klamki okienne4%Okna drewniane40%Okna aluminiowe23%Okna plastikowe8%100%",
+    "options": [
+      "26%",
+      "71%",
+      "37%",
+      "29%"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "W spółce komandytowej komandytariusz ma prawo do",
+    "options": [
+      "udziału w zysku proporcjonalnie do faktycznie wniesionego do spółki wkładu",
+      "rocznych odsetek w wysokości 15 % wniesionego do spółki kapitału",
+      "udziału w zysku zgodnie z postanowieniami w statucie spółki",
+      "udziału w zysku proporcjonalnie do rzeczywiście świadczonej pracy na rzecz spółki"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Ustal saldo końcowe rachunku bankowego.  Saldo początkowe rachunku z dnia 15.01.08r.50 000,00 PLNOpis operacjipobrano prowizję za przelewnaliczono odsetki od środków zgromadzonych w bankuprzelew dla Z.P.,,OTIS\" za Fa VAT zakupu nr 12/01/08przelew od P.P.,,WEGA\" za Fa VAT sprzedaży nr 04/01/085,00 PLN 10,00 PLN 5 400,00 PLN 6 300,00 PLNSaldo końcowe rachunku z dnia 15.01.08r",
+    "options": [
+      "61 685 zł",
+      "49 095 zł",
+      "50 905 zł",
+      "61 705 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Czym jest spółka komandytowa?",
+    "options": [
+      "osobową spółką cywilną",
+      "spółką kapitałową",
+      "spółką partnerską",
+      "osobową spółką handlową"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Najwyższą wydajność pracy stwierdzono  Nazwa jednostkiKwota utarguze sprzedaży(w zł)LiczbazatrudnionychpracownikówSklep Kamax280 000,007Sklep DomLux200 000,004Hurtownia Limo250 000,0010Hurtownia Zszywka240 000,003",
+    "options": [
+      "W Hurtowni Zszywka.",
+      "W Sklepie Kamax.",
+      "W Hurtowni Lima.",
+      "W Sklepie DomLux."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Tabela przedstawia strukturę kapitału własnego spółki akcyjnej za poprzedni rok obrotowy. Jaką minimalną kwotę zysku netto spółka akcyjna przeznaczy na zwiększenie kapitału zapasowego po zatwierdzeniu sprawozdania finansowego?  Kapitał akcyjnyKapitał zapasowyZysk netto900 000 zł144 000 zł100 000 zł",
+    "options": [
+      "100 000 zł",
+      "30 000 zł",
+      "8 000 zł",
+      "144 000 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "Średnia sprzedaż towarów na dzień wynosi 300 sztuk, a dostawy realizowane są co 15 dni. Aby zapewnić ciągłość sprzedaży pomiędzy dostawami, jaki powinien być minimalny zapas towarów w magazynie?",
+    "options": [
+      "300 szt.",
+      "200 szt.",
+      "5 000 szt.",
+      "4 500 szt."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal, w którym regionie przedsiębiorstwo DAMA osiągnęło najwyższą wartość sprzedaży w stosunku do planowanej wartości sprzedaży.  Przedsiębiorstwo DAMARegionPlanowana wartość sprzedaży w złZrealizowana wartość sprzedaży w złRegion I3 000,003 000,00Region II2 400,003 000,00Region III7 000,007 100,00Region IV9 200,009 000,00",
+    "options": [
+      "W regionie II.",
+      "W regionie IV.",
+      "W regionie I.",
+      "W regionie III."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Pracownik zatrudniony na 3/4 etatu w systemie czasowym otrzymuje wynagrodzenie na podstawie stawki godzinowej wynoszącej 12,50 zł za godzinę. W miesiącu grudniu 2016 roku pracował przez 22 dni, wykonując 6 godzin dziennie. Oblicz wynagrodzenie brutto pracownika za grudzień 2016 roku.",
+    "options": [
+      "1 500,00 zł",
+      "1 650,00 zł",
+      "2 200,00 zł",
+      "2 750,00 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Analiza ekonomiczna",
+    "text": "W tabeli zamieszczone są cztery grupy czynników, stanowiących elementy analizy SWOT. Wskaż grupę, w której znajdują się czynniki wskazujące słabe strony przedsiębiorstwa.  A.B.− niewielka liczba firm konkurencyjnych − rozpoznawalność firmy na rynku krajowym− wyeksploatowane maszyny produkcyjne − wysokie koszty stałe produkcjiC.D.− wysokie kwalifikacje kadry kierowniczej − ekologiczna technologia produkcji− wysokie oprocentowanie kredytów bankowych − sezonowość popytu na produkty firmy",
+    "options": [
+      "C.",
+      "D.",
+      "B.",
+      "A."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Zamieszczony fragment umowy dotyczy zakazu konkurencji  § 1Pracownik zobowiązuje się w okresie zatrudnienia u pracodawcy nie prowadzić działalności konkurencyjnej w stosunku do działalności prowadzonej przez pracodawcę.§ 2Pracownik zobowiązuje się ponadto w okresie zatrudnienia nie świadczyć pracy na podstawie umowy o pracę, kontraktu menedżerskiego, umowy zlecenia, umowy o dzieło lub na jakiejkolwiek innej podstawie na rzecz jakiegokolwiek podmiotu prowadzącego działalność konkurencyjną wobec pracodawcy.•§ 3Pracownik zobowiązuje się do zachowania w tajemnicy wszelkich okoliczności i poufnych informacji, o których dowiedział się w związku z wykonywaną przez niego pracą, a których ujawnienie mogłoby narazić pracodawcę na szkodę.§ 4W razie naruszenia przez pracownika niniejszej umowy pracodawca może: — dochodzić od niego naprawienia poniesionej szkody na zasadach określonych w k.p., — w uzasadnionych przypadkach wypowiedzieć umowę o pracę lub rozwiązać ją bez wypowiedzenia z winy pracownika.",
+    "options": [
+      "po ustaniu stosunku pracy.",
+      "w czasie trwania stosunku pracy.",
+      "w czasie trwania stosunku pracy oraz po jego ustaniu.",
+      "po ustaniu stosunku pracy i z zakazem ponownego zatrudnienia."
+    ],
+    "correct": 1
+  },{
+    "categoryName": "Kadry i płace",
+    "text": "Zgodnie z regulaminem wynagradzania obowiązującym u pracodawcy, pracownik otrzymuje stałe miesięczne wynagrodzenie, które składa się z: − płacy podstawowej – 4 000,00 zł, − dodatku funkcyjnego – 700,00 zł, − premii motywacyjnej – 5% od płacy zasadniczej. Oblicz całkowite wynagrodzenie brutto pracownika za miesiąc.",
+    "options": [
+      "4 700,00 zł",
+      "4 900,00 zł",
+      "4 350,00 zł",
+      "4 935,00 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Kategoria archiwalna akt oznaczona literą A odnosi się do dokumentacji",
+    "options": [
+      "mającej krótki okres użyteczności, która po użyciu jest oddawana na makulaturę",
+      "o wartości użytkowej dla danej jednostki, która po pięciu latach jest eliminowana",
+      "o wartości praktycznej dla konkretnej jednostki, która po roku zostaje zniszczona",
+      "o znaczeniu historycznym, która powinna być przechowywana w archiwum na zawsze"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W tabeli zaprezentowano opisy kont księgowych. Który z nich dotyczy kont wynikowych?  A.B.Na kontach tych ujmuje się składniki występujące w pozycjach aktywów i pasywów, np.: „Środki trwałe\", „Kredyty bankowe\".Na kontach tych ujmuje się koszty, przychody, zyski nadzwyczajne i straty nadzwyczajne, a zaewidencjonowane na nich operacje gospodarcze kształtują wynik finansowy.C.D.Konta pomocnicze, których stosowanie ma na celu skorygowanie wartości niektórych kont bilansowych lub wynikowych, np.: „Umorzenie środków trwałych\", „Odchylenia od cen ewidencyjnych towarów\".Na kontach tych dokonywane są rozliczenia złożonych zdarzeń gospodarczych. Nazwy tych kont rozpoczynają się od słowa „rozliczenie\", np.: „Rozliczenia kosztów rodzajowych\", „Rozliczenie zakupu\".",
+    "options": [
+      "C.",
+      "A.",
+      "D.",
+      "B."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Jan Kowalski prowadzi indywidualną działalność gospodarczą i dokonuje rozliczeń z podatku dochodowego według ogólnych zasad w okresach miesięcznych. Do kiedy najpóźniej przedsiębiorca powinien wpłacać miesięczną zaliczkę na podatek dochodowy na konto bankowe urzędu skarbowego?",
+    "options": [
+      "Do 20 dnia następnego miesiąca za miesiąc wcześniejszy",
+      "Do 25 dnia następnego miesiąca za miesiąc wcześniejszy",
+      "Do 10 dnia każdego miesiąca za miesiąc wcześniejszy",
+      "Do 7 dnia każdego miesiąca za miesiąc wcześniejszy"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Wynagrodzenie pracownika zatrudnionego w hurtowni w systemie czasowo-prowizyjnym składa się z wynagrodzenia zasadniczego w kwocie 2 600,00 zł oraz prowizji od wartości sprzedaży. Ile wyniesie wynagrodzenie brutto pracownika, jeśli miesięczny przychód ze sprzedaży wyniósł 18 500,00 zł?  Miesięczny przychód ze sprzedaży w złStawka prowizjioddo9 999,995%10 000,0014 999,9910%15 000,0019 999,9915%20 000,0024 999,9917%25 000,0020%",
+    "options": [
+      "5 745,00 zł",
+      "5 375,00 zł",
+      "3 165,00 zł",
+      "4 450,00 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Dokumenty inwentaryzacyjne należy przechowywać według kategorii archiwalnej?",
+    "options": [
+      "B 10",
+      "B 50",
+      "B 5",
+      "B 25"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Przedsiębiorca rozlicza się z podatku dochodowego na zasadach ogólnych według skali podatkowej. Na podstawie informacji zawartych w tabeli oblicz kwotę należnej zaliczki na podatek dochodowy podlegającą wpłacie do urzędu skarbowego.  Dochóddo opodatkowaniaZapłacona składkana ubezpieczenie zdrowotne doodliczenia od podatkuKwota zmniejszającapodatek4 670,00 zł248,82 zł556,02 zł",
+    "options": [
+      "840,60 zł",
+      "841,00 zł",
+      "36,00 zł",
+      "285,00 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Dokument potwierdzający przyjęcie wyrobów gotowych z produkcji do magazynu to",
+    "options": [
+      "Pw",
+      "Wz",
+      "Pz",
+      "Rw"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Który z dokumentów musi zostać poddany obowiązkowej weryfikacji pod względem merytorycznym, formalnym oraz rachunkowym?",
+    "options": [
+      "Wz - dokument wydania zewnętrznego",
+      "Rw - dokument rozchodu wewnętrznego",
+      "Pz - dokument przyjęcia zewnętrznego",
+      "Faktura VAT zakupu"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Pracodawca zawarł z pracownikiem umowę o pracę na czas próbny 1 kwietnia 2015 roku. Kiedy umowa ta może zostać zakończona najpóźniej?",
+    "options": [
+      "30 kwietnia 2015 roku",
+      "30 maja 2015 roku",
+      "31 lipca 2015 roku",
+      "30 czerwca 2015 roku"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Skarb Państwa podejmuje emisję oraz sprzedaż obligacji skarbowych w przypadku, gdy występuje",
+    "options": [
+      "inflacja pełzająca",
+      "hiperinflacja",
+      "nadwyżka budżetowa",
+      "deficyt budżetowy"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Na podstawie danych zamieszczonych w tabeli wskaż wysokość całkowitych przychodów i całkowitych kosztów, przy których przedsiębiorstwo osiąga próg rentowności.  Ilość wytworzonych produktów(w sztukach)100200300400500600Przychody całkowite(w zł)14 00016 00019 00024 00028 00030 000Koszty całkowite(w zł)16 00018 00019 00022 00024 00025 000",
+    "options": [
+      "Przychody całkowite na poziomie 14 000 zł, koszty całkowite na poziomie 16 000 zł.",
+      "Przychody całkowite na poziomie 19 000 zł, koszty całkowite na poziomie 19 000 zł.",
+      "Przychody całkowite na poziomie 16 000 zł, koszty całkowite na poziomie 18 000 zł.",
+      "Przychody całkowite na poziomie 24 000 zł, koszty całkowite na poziomie 22 000 zł."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Zestawienie zawiera wybrane wielkości z zakresu normowania zużycia materiałów w przedsiębiorstwie produkcyjnym w I kwartale bieżącego roku. Ile ton powinien wynosić zapas minimalny, aby zabezpieczyć ciągłość produkcji w razie nieprzewidzianych okoliczności powodujących opóźnienie dostawy?  Przeciętne zużycie dzienne materiałówŚredni cykl dostawOdchylenie od średniego cyklu dostawCzas na odbiór materiałówi przygotowanie ich do zużycia0,2 t20 dni5 dni1 dzień",
+    "options": [
+      "0,8t",
+      "2,8t",
+      "5,2t",
+      "1,2t"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Koszt wyprodukowania 24 000 sztuk towarów gotowych wynosi 72 000,00 zł. Jaka będzie cena sprzedaży netto za jedną sztukę towaru, jeśli na sprzedaży produktów firma uzyskuje zysk na poziomie 40% jednostkowego kosztu produkcji?",
+    "options": [
+      "1,20 zł/szt.",
+      "5,00 zł/szt.",
+      "4,20 zł/szt.",
+      "3,00 zł/szt."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Na podstawie informacji ujętych w tabeli, oblicz należną zaliczkę na podatek dochodowy od wynagrodzenia pracownika za sierpień 2015 r.  WyszczególnienieKwoty w złPodstawa naliczenia zaliczki na podatek dochodowy1 890,00Zaliczka na podatek dochodowy293,87Składka zdrowotna pobrana170,10Składka zdrowotna odliczana155,00Należna zaliczka na podatek dochodowy?",
+    "options": [
+      "294,00 zł",
+      "185,00 zł",
+      "139,00 zł",
+      "340,00 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "W tabeli zamieszczono wybrane wskaźniki zyskowności. Który wskaźnik charakteryzuje stopień wykorzystania zasobów majątkowych przedsiębiorstwa?  Nazwa wskaźnikaBudowa wskaźnikaA.rentowność sprzedaży\\( \\frac{\\text{zysk netto}}{\\text{sprzedaż netto}} \\)B.rentowność majątku\\( \\frac{\\text{zysk netto}}{\\text{aktywa}} \\)C.rentowność kapitałuwłasnego\\( \\frac{\\text{zysk netto}}{\\text{kapitał własny}} \\)D.rentowność kapitału stałego\\( \\frac{\\text{zysk netto + odsetki}}{\\text{kapitał własny + zobowiązania długoterminowe}} \\)",
+    "options": [
+      "rentowność kapitału własnego",
+      "rentowność kapitału stałego",
+      "rentowność sprzedaży",
+      "rentowność majątku"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Co oznacza deficyt budżetowy państwa?",
+    "options": [
+      "dodatnia różnica między wpływami budżetu państwowego a jego wydatkami niezbędnymi do finansowania sfery budżetowej",
+      "ujemna różnica między dochodami a wydatkami budżetu państwa",
+      "bilans dochodów oraz wydatków rządowych",
+      "finansowy plan państwa tworzony przez rząd i zatwierdzany przez sejm"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Jaki dodatek do wynagrodzenia jest przyznawany dobrowolnie przez pracodawcę pracownikowi zgodnie z regulacjami wewnętrznymi zakładu pracy?",
+    "options": [
+      "Dodatek za pracę w godzinach nadliczbowych",
+      "Dodatek za znajomość języków obcych",
+      "Dodatek za pracę w porze nocnej",
+      "Dodatek wyrównawczy"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W wyniku poziomego podziału konto \"Towary\" zostało podzielone na oddzielne konta dla każdego towaru osobno. Konta, które powstały w wyniku tego podziału, określa się mianem konta",
+    "options": [
+      "pozabilansowych",
+      "wynikowymi",
+      "korygujących",
+      "analitycznymi"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "W jakiej sekcji biznes planu zawarte są dane dotyczące szacowanej wielkości produkcji lub sprzedaży, wysokości funduszy wymaganych do rozpoczęcia i prowadzenia działalności gospodarczej oraz etapy realizacji procesu produkcji?",
+    "options": [
+      "W planie organizacyjnym",
+      "W planie finansowym",
+      "W planie marketingowym",
+      "W planie technicznym"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Przedstawiciel sklepu obuwniczego uregulował zobowiązanie wobec hurtowni za towary o wartości 3 100 złotych, korzystając z weksla. Wartość nominalna tego weksla wynosi 3 200 złotych. Jaką kwotę stanowi dyskonto?",
+    "options": [
+      "300 złotych",
+      "100 złotych",
+      "3 100 złotych",
+      "3 200 złotych"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Niewłaściwe archiwizowanie dokumentacji niearchiwalnej polega na",
+    "options": [
+      "prawidłowym uporządkowaniu materiałów wewnątrz teczek, ich opisaniu, stworzeniu ewidencji oraz zapewnieniu ich bezpieczeństwa",
+      "powiadomieniu dyrektora odpowiedniego lokalnego archiwum państwowego oraz sporządzeniu spisu zdawczo-odbiorczego",
+      "ocenie jej użyteczności, wydzieleniu dokumentacji zbędnej oraz przekazaniu jej do zniszczenia",
+      "układaniu materiałów w teczkach według porządku spraw, a w obrębie sprawy - chronologicznie"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Cukrownia Burak w okresie sprawozdawczym wyprodukowała 60 ton cukru Kryształek. Poniesione koszty produkcji cukru przedstawiono w tabeli. Koszt wytworzenia jednego kilograma cukru zostanie ustalony w kwocie  Pozycje kalkulacyjnePoniesione koszty (zł)Materiały bezpośredniez narzutami40 000,00Płace bezpośrednie z narzutami20 000,00Koszty pośrednie60 000,00",
+    "options": [
+      "2 zł na podstawie kalkulacji podziałowej prostej.",
+      "2 zł na podstawie kalkulacji podziałowej współczynnikowej.",
+      "20 zł na podstawie kalkulacji podziałowej współczynnikowej.",
+      "20 zł na podstawie kalkulacji podziałowej prostej."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "W części B teczki z aktami osobowymi pracownika znajdują się",
+    "options": [
+      "świadectwo pracy wydane przez poprzedniego pracodawcę",
+      "umowa o pracę zawarta z pracownikiem",
+      "umowa o zakazie konkurencji po zakończeniu umowy o pracę",
+      "kwestionariusz osobowy aplikanta do pracy"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal, która brygada robotnicza uzyskała najwyższą wydajność pracy w przeliczeniu na 1 roboczogodzinę.  BrygadaLiczba robotnikówCzas pracy (w godz.)Liczba wyrobów (w szt.)A.108400B.85320C.58360D.67294",
+    "options": [
+      "A.",
+      "C.",
+      "D.",
+      "B."
+    ],
+    "correct": 1
+  },{
+    "categoryName": "Rachunkowość",
+    "text": "Klient ulokował w banku 4000 zł na czas wynoszący 3 lata. Lokata ma roczną stopę procentową równą 5%. Zgodnie z umową, odsetki zostaną skapitalizowane po wygaśnięciu okresu trwania lokaty. Po tym czasie klient otrzyma",
+    "options": [
+      "4 600 zł",
+      "4 000 zł",
+      "4 800 zł",
+      "4 200 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Podział kont w poziomie prowadzi do powstania kont",
+    "options": [
+      "syntetycznych",
+      "rozrachunkowych",
+      "wynikowych",
+      "analitycznych"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Firma nabyła surowce do wytwarzania, za które płatność zostanie uregulowana w późniejszym czasie. Wartość kwoty do uiszczenia stanowi zobowiązanie",
+    "options": [
+      "wekslowe",
+      "publicznoprawne",
+      "wobec dostawcy",
+      "wobec odbiorcy"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Osiągnięcie zamierzonych rezultatów przy minimalnych wydatkach związanych z ich realizacją jest zgodne z zasadą",
+    "options": [
+      "racjonalnego zarządzania.",
+      "podstawowego elementu.",
+      "koncentracji.",
+      "alternatywnych sposobów."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "W ubiegłym roku koszty produkcji w firmie zajmującej się wyrobem nożyczek wyniosły 5 200 zł, a w obecnym roku osiągnęły 8 800 zł. W tych latach wyprodukowano odpowiednio 260 oraz 400 sztuk gotowych produktów. Jak kształtuje się koszt jednostkowy w bieżącym roku w porównaniu do roku poprzedniego?",
+    "options": [
+      "wyższy o 3 zł",
+      "wyższy o 2 zł",
+      "niższy o 3 zł",
+      "niższy o 2 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Przeanalizuj fragment zamieszczonego wyciągu bankowego przedsiębiorstwa i określ kwotę, która wpłynęła na konto Rachunek bankowy tego przedsiębiorstwa.  15.05.2010 r. wpływ od PH „Lima\" za Fa Vat nr 232/052 300 zł16.05.2010 r. realizacja czeku rozrachunkowego nr 14142356500 zł18.05.2010 r. przelew dla PHU „Colo\" za Fa VAT nr 23/05/1012 000 zł22.05.2010 r. prowizja za przelew10 zł23.05.2010 r. przelew podatku VAT650 zł",
+    "options": [
+      "12 000 zł",
+      "2 300 zł",
+      "13 110 zł",
+      "24 300 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Firma Transportowa nabyła nowy pojazd ciężarowy, który został uwzględniony w bilansie w kategorii",
+    "options": [
+      "wyroby gotowe",
+      "kapitał własny",
+      "aktywa obrotowe",
+      "środki trwałe"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Przedsiębiorca prowadzi działalność gospodarczą w zakresie sprzątania wnętrz w miejscowości o liczbie mieszkańców 58 000 i zatrudnia 2 pracowników. Podatnik rozlicza się z tytułu podatku dochodowego od osób fizycznych w formie karty podatkowej. Opłacona składka na ubezpieczenie zdrowotne 7,75% wynosi 312,00 zł. Oblicz miesięczną kwotę podatku dochodowego podlegającą wpłacie do urzędu skarbowego.",
+    "options": [
+      "737,00 zł",
+      "425,00 zł",
+      "367,00 zł",
+      "308,00 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Czym jest planowanie cash flow?",
+    "options": [
+      "prognozowaniem poziomu sprzedaży w oparciu o analizy zmian popytu",
+      "porównaniem potrzebnych środków finansowych z dostępnością środków",
+      "określeniem wielkości zakupów oraz stanów magazynowych różnych grup towarowych",
+      "badaniem zmian zatrudnienia w różnych działach przedsiębiorstwa"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Wartość wskaźnika rentowności kapitału własnego wynosząca 0,15 sugeruje, że",
+    "options": [
+      "firma powinna uiścić 15 groszy podatku od każdej złotówki zysku brutto",
+      "na każdą złotówkę zainwestowanego w działalność kapitału własnego przypada 15 groszy zysku netto",
+      "spółka osiągnęła 15 złotych zysku netto",
+      "na każdą złotówkę przychodów ze sprzedaży przypada 15 groszy zysku netto"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Programowe rozwiązania komputerowe, stosowane w operacjach przedsiębiorstwa, klasyfikują się jako",
+    "options": [
+      "rzeczowych aktywów trwałych",
+      "inwestycji długoterminowych",
+      "wartości niematerialnych i prawnych",
+      "środków trwałych"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "Aby wyprodukować 1 litr dżemu truskawkowego, zgodnie z przepisem, wykorzystuje się 0,8 kg truskawek oraz 0,4 kg cukru. Jakie ilości truskawek i cukru będą potrzebne do wytworzenia 600 litrów dżemu truskawkowego?",
+    "options": [
+      "720 kg truskawek i 720 kg cukru",
+      "480 kg truskawek i 120 kg cukru",
+      "480 kg truskawek i 240 kg cukru",
+      "750 kg truskawek i 1 500 kg cukru"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Właścicielka firmy krawieckiej otrzymała rachunek za wykorzystaną energię elektryczną. W podatkowej ewidencji przychodów i rozchodów rachunek ten zostanie ujęty w pozycji",
+    "options": [
+      "wartość sprzedanych produktów i usług",
+      "pozostałe wydatki",
+      "koszty uboczne zakupu",
+      "zakup towarów handlowych i materiałów"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Skąd pochodzi finansowanie zasiłków dla osób bezrobotnych?",
+    "options": [
+      "Miejskiego Ośrodka Pomocy Społecznej",
+      "Funduszu Gwarantowanych Świadczeń Pracowniczych",
+      "Urzędu Miasta i Gminy",
+      "Funduszu Pracy"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Producent sprzętu AGD planuje w ciągu następnych pięciu lat rozszerzyć asortyment wytwarzanych produktów i utworzyć własną sieć dystrybucji. Który z planów obejmuje osiągnięcie zamierzonych celów?",
+    "options": [
+      "Strategicznym",
+      "Operacyjnym",
+      "Taktycznym",
+      "Rzeczowym"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "W 2015 roku firma miała 65 pracowników. W 2016 roku planuje wykonać 36 000 sztuk produktów oraz osiągnąć roczny wskaźnik wydajności pracy wynoszący 500 sztuk na jednego pracownika. Ile dodatkowych pracowników powinno zatrudnić przedsiębiorstwo?",
+    "options": [
+      "6 pracowników",
+      "7 pracowników",
+      "5 pracowników",
+      "8 pracowników"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Zobowiązanie do regularnego szkolenia pracowników na stanowisku technika ekonomisty w zakresie bhp w godzinach pracy oraz na koszt pracodawcy wynika z obowiązywania przepisów",
+    "options": [
+      "Rozporządzenia Ministra Pracy i Polityki Socjalnej",
+      "Rozporządzenia Ministra Zdrowia i Opieki Społecznej",
+      "Kodeksu cywilnego",
+      "Kodeksu pracy"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Kto rozstrzyga spory dotyczące roszczeń wynikających ze stosunku pracy?",
+    "options": [
+      "sądy administracyjne",
+      "urzędnicy inspektoratu pracy",
+      "sądy gospodarcze",
+      "sądy pracy"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Osoby fizyczne, które zamierzają prowadzić działalność w formie spółki, składają wniosek o wpis do CEIDG.",
+    "options": [
+      "partnerskiej",
+      "komandytowej",
+      "jawnej",
+      "cywilnej"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Pracownik wynagradzany w systemie akordu progresywnego wykonał w bieżącym miesiącu 160 sztuk wyrobów gotowych zgodnie z normą jakościową. Korzystając z tabeli stawek akordowych, oblicz wynagrodzenie brutto pracownika.  Tabela stawek akordowychliczba wyrobów gotowych w sztukachstawka w zł/szt.1-10025,00101-15035,00151-20045,00",
+    "options": [
+      "4 610,00 zł",
+      "4 700,00 zł",
+      "5 700,00 zł",
+      "7 200,00 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Firma złożyła w banku weksel o wartości 3 600,00 złotych, a na swoje konto bankowe otrzymała kwotę 3 200,00 złotych. Jakie było dyskonto weksla?",
+    "options": [
+      "400,00 zł",
+      "3 200,00 zł",
+      "3 600,00 zł",
+      "800,00 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Pan Jan Agatowski wziął w banku kredyt na zakup lokalu, z terminem spłaty wynoszącym 15 lat. Zabezpieczeniem tego kredytu jest wspomniany lokal. Jakie to jest zabezpieczenie?",
+    "options": [
+      "Inwestycyjny",
+      "Konsumpcyjny",
+      "Obrotowy",
+      "Hipoteczny"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Regulacje dotyczące wypowiedzenia umowy o dzieło znajdują się w przepisach kodeksu",
+    "options": [
+      "spółek handlowych",
+      "pracy",
+      "postępowania cywilnego",
+      "cywilnego"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Firma handlowa nabyła od producenta lodówki po jednostkowej cenie zakupu wynoszącej 2 400,00 zł/szt. Marża handlowa stanowi 20% ceny sprzedaży netto. Jaka jest wartość marży handlowej uwzględniona w cenie sprzedaży netto?",
+    "options": [
+      "500,00 zł",
+      "600,00 zł",
+      "480,00 zł",
+      "400,00 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Wartość podnosząca jest stosowana w trakcie obliczania amortyzacji",
+    "options": [
+      "naturalnej",
+      "jednorazowej",
+      "degresywnej",
+      "progresywnej"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Wydanie zaliczki na zakup materiałów dla pracownika to czynność",
+    "options": [
+      "aktywo-pasywna zmniejszająca",
+      "pasywna",
+      "aktywna",
+      "aktywo-pasywna zwiększająca"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W tabeli przedstawiono wybrane pozycje rachunku zysków i strat przedsiębiorstwa \"Barter\". Z analizy danych zawartych w tej tabeli wynika, ze rentowność sprzedaży w badanym okresie  WyszczególnienieStan na31.12.2003(w tys. zł)Stan na31.12.2004(w tys. zł)Zysk2030Przychody zesprzedaży80100Rentownośćsprzedaży25%30%",
+    "options": [
+      "wzrosła o 15%",
+      "wzrosła o 5%",
+      "spadła o 5%",
+      "spadła o 15%"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Inflacja kosztowa wynika z",
+    "options": [
+      "wzrostu popytu.",
+      "wzrostu podaży.",
+      "spadku popytu.",
+      "spadku podaży."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Zgodnie z zapisami Kodeksu pracy, pracodawca na podstawie zawartej z pracownikiem umowy o pracę jest zobowiązany do wypłaty wynagrodzenia",
+    "options": [
+      "najpóźniej do 15. dnia każdego miesiąca za miesiąc poprzedni",
+      "co najmniej raz w miesiącu, w ustalonym z góry i stałym terminie",
+      "raz w miesiącu, w terminie i miejscu ustalonym przez pracownika",
+      "najpóźniej do 30. dnia każdego miesiąca za miesiąc poprzedni"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Na podstawie danych zamieszczonych w tabeli ustal, w którym magazynie zapas towarów był odnawiany najczęściej.  MagazynPrzychody ze sprzedaży towarówPrzeciętny stan zapasów towarówA.392 600,00 zł49 075,00 złB.218 400,00 zł16 800,00 złC.285 000,00 zł28 500,00 złD.418 000,00 zł38 000,00 zł",
+    "options": [
+      "A.",
+      "D.",
+      "C.",
+      "B."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Transformacja przedsiębiorstwa publicznego w jednoosobową spółkę Skarbu Państwa, w formie spółki akcyjnej, zachodzi w wyniku",
+    "options": [
+      "sprzedaży",
+      "nacjonalizacji",
+      "uwłaszczenia",
+      "komercjalizacji"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Hurtownia, która jest czynnym podatnikiem VAT, sprzedała 300 sztuk towarów po cenie brutto wynoszącej 24,60 zł/szt. Cena zakupu netto tych towarów wynosiła 16,00 zł/szt. Jaką marżę osiągnięto na sprzedaży towarów, jeśli towar podlegał podstawowej stawce VAT?",
+    "options": [
+      "4 800,00 zł",
+      "6 000,00 zł",
+      "1 200,00 zł",
+      "2 580,00 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Który z organów państwa jest uprawniony do realizowania zadań wymienionych w tabeli?  kierowanie pracami rząduwydawanie rozporządzeńkoordynowanie pracy ministrówsprawowanie nadzoru nad samorządem terytorialnym",
+    "options": [
+      "Minister Rozwoju i Finansów.",
+      "Prezes Rady Ministrów.",
+      "Prezydent RP.",
+      "Minister Środowiska."
+    ],
+    "correct": 1
+  },{
+    "categoryName": "Rachunkowość",
+    "text": "Zamieszczona interpretacja dotyczy wskaźnika  n n nnn „Wskaźnik ten informuje, ile razy w danym okresie jednostka gospodarcza otrzymuje środki pieniężne za sprzedane wyroby, towary, usługi albo ile dni trwa średni okres inkasowania środków za sprzedane wyroby, towary, usługi\"n",
+    "options": [
+      "zadłużenia.",
+      "rotacji należności.",
+      "rentowności sprzedaży.",
+      "płynności."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W skład wartości niematerialnych i prawnych wchodzą pozyskane",
+    "options": [
+      "prawa do patentów oraz licencje na korzystanie z oprogramowania",
+      "oprogramowanie komputerowe oraz akcje",
+      "prawa do oprogramowania komputerowego oraz dwuletnie obligacje",
+      "koncesje, komputery oraz know-how"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "Wskaźnik rotacji zapasów wzrósł z 12 dni do 16 dni, co wskazuje, że",
+    "options": [
+      "zwiększyła się pojemność magazynowa",
+      "zapasy są przechowywane w magazynie o 4 dni dłużej",
+      "czas oczekiwania na nowe dostawy skrócił się o 4 dni",
+      "zapasy w magazynie uzupełniano 16 razy rocznie"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Analiza ekonomiczna",
+    "text": "Pierwszym krokiem w procesie planowania jest",
+    "options": [
+      "nadzór nad realizacją planu",
+      "określenie celów",
+      "ocena otoczenia konkurencyjnego",
+      "poszukiwanie różnych rozwiązań"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "W każdym roku kalendarzowym pracownik ma prawo do urlopu na żądanie w ilości",
+    "options": [
+      "5 dni",
+      "3 dni",
+      "4 dni",
+      "2 dni"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Zakład krawiecki otrzymał zlecenie na 500 sztuk jedwabnych apaszek. Norma zużycia materiału na jedną apaszkę wynosi 0,5 m.b. jedwabiu. W magazynie firmy znajduje się 100 m.b. jedwabiu. Ile metrów bieżących jedwabiu należy dokupić, aby zrealizować to zlecenie?",
+    "options": [
+      "300 m.b.",
+      "400 m.b.",
+      "250 m.b.",
+      "150 m.b."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Handlowiec, który prowadzi działalność gospodarczą, otrzymał rachunek za usługi IT. W podatkowej księdze przychodów i rozchodów rachunek ten zostanie zapisany w kolumnie",
+    "options": [
+      "zakup towarów handlowych oraz materiałów",
+      "pozostałe wydatki",
+      "wartość sprzedanych produktów i usług",
+      "koszty dodatkowe zakupu"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Do zadań maklera giełdowego należy między innymi:  A.– dokonywanie w trybie ciągłym badań i analiz rynku, – ocena ryzyka i analiza zagrożeń dla przedsiębiorstwa, – udzielanie porad dotyczących kondycji finansowej ubezpieczyciela, – kontrola składanych przez klientów zleceń pod względem formalnym oraz merytorycznym.B.– współpraca z działem likwidacji szkód, – budowanie długotrwałych relacji z klientami, – kształtowanie pozytywnego wizerunku firmy ubezpieczeniowej, – prezentowanie oferty i sprzedaż produktów ubezpieczeniowych.C.– analizowanie rynku kapitałowego, – oferowanie papierów wartościowych w publicznym obrocie, – zawieranie umów w zakresie obsługi rachunków papierów wartościowych klienta, – kupowanie lub sprzedawanie papierów wartościowych we własnym imieniu na rachunek zleceniodawcy.D.– oferowanie i sprzedaż produktów bankowości detalicznej, – przygotowywanie dokumentów dla klienta indywidualnego, – otwieranie rachunków bankowych i realizacja operacji kasowych, – przyjmowanie wniosków kredytowych i informowanie klienta o podjętej decyzji.",
+    "options": [
+      "A.",
+      "C.",
+      "D.",
+      "B."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Zawarty w przedstawionej definicji prawa popytu łaciński termin ceteris paribus oznacza  Prawo popytu informuje, że wraz ze wzrostem ceny dobra popyt na dobro maleje, a spadek ceny tego dobra powoduje wzrost popytu (ceteris paribus)",
+    "options": [
+      "\"na tych samych warunkach co rok temu\".",
+      "\"w innych warunkach spowodowanych upływem czasu'\".",
+      "\"w tych samych, niezmienionych warunkach\".",
+      "\"w innych warunkach spowodowanych zmianą waluty'\"."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Marketing i zarządzanie",
+    "text": "Kierownik, który daje swoim podwładnym całkowitą swobodę w podejmowaniu decyzji, przyjmuje jaki styl zarządzania?",
+    "options": [
+      "demokratyczny",
+      "patronalny",
+      "autokratyczny",
+      "liberalny"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Podczas inwentaryzacji zauważono brak towarów w magazynie, którego wartość zakupu wynosi 1000 zł. Magazynier na piśmie zgodził się na uregulowanie tej kwoty po cenie sprzedaży (marża 20% od ceny zakupu) i wpłacił do kasy połowę wartości braku w wysokości",
+    "options": [
+      "600 zł",
+      "1 000 zł",
+      "500 zł",
+      "1 200 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Bezpieczeństwo i higiena pracy",
+    "text": "Gdy sprzątaczka podłączyła odkurzacz do gniazdka, doznała porażenia prądem. Jaką czynność należy wykonać w pierwszej kolejności, aby udzielić jej pomocy?",
+    "options": [
+      "odcięcie dopływu prądu",
+      "wezwanie karetki pogotowia",
+      "informowanie Państwowej Inspekcji Pracy",
+      "powiadomienie przełożonego"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "W sekcji C teczki osobowej pracownika mieszczą się dokumenty",
+    "options": [
+      "związane z zakończeniem zatrudnienia",
+      "związane z aplikowaniem o pracę",
+      "dotyczące nawiązania zatrudnienia",
+      "dotyczące przebiegu pracy"
+    ],
+    "correct": 0
   }]
+  
