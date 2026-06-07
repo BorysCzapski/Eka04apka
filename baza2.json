@@ -13601,5 +13601,2172 @@
       "1 950 zł"
     ],
     "correct": 3
-  }]
+  },{
+    "categoryName": "Prawo gospodarcze",
+    "text": "Spółka osobowa, stworzona przez wspólników do wykonywania zawodu regulowanego, takiego jak lekarz czy radca prawny, w ramach działalności gospodarczej prowadzonej pod własną nazwą, to",
+    "options": [
+      "spółka partnerska",
+      "spółka komandytowa",
+      "spółka akcyjna",
+      "spółka cywilna"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Anna Wiśniewska jest właścicielką nieruchomości nieprzeznaczonej na prowadzenie działalności gospodarczej, w skład której wchodzą grunty o powierzchni 1 000 m2 oraz dom jednorodzinny o powierzchni całkowitej 200 m2. Podatek od nieruchomości za 2016 rok ustalony na podstawie stawek zawartych w tabeli wyniesie:\n- grunty związane z działalnością gospodarczą: 0,90 zł od 1 m2\n- pozostałe grunty: 0,47 zł od 1 m2\n- budynki mieszkalne: 0,75 zł od 1 m2\n- budynki związane z działalnością gospodarczą: 23,13 zł od 1 m2",
+    "options": [
+      "620,00 zł",
+      "150,00 zł",
+      "900,00 zł",
+      "470,00 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Marketing i zarządzanie",
+    "text": "Narzędzie marketingu mix wykorzystywane przez firmę, które definiuje sposób dystrybucji gotowych towarów na rynku oraz ich sprzedaż do konsumentów lub klientów przemysłowych, to",
+    "options": [
+      "dystrybucja.",
+      "reklama.",
+      "towar.",
+      "koszt."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Rozwiązanie umowy o pracę przez pracodawcę bez wypowiedzenia jest uzasadnione, gdy pracownik",
+    "options": [
+      "jest osobą z niepełnosprawnością",
+      "odmówił przystąpienia do związków zawodowych",
+      "wyznaje inną religię",
+      "zrezygnował z udziału w szkoleniu BHP"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Pracownik podpisał umowę o pracę na próbny okres trzech miesięcy. Jak długo trwa wypowiedzenie tej umowy?",
+    "options": [
+      "2 tygodnie",
+      "2 dni",
+      "1 tydzień",
+      "1 miesiąc"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Stan zobowiązań w firmie przedstawia się w następujący sposób:\n- zobowiązania wobec dostawców 12 000,00 zł\n- zobowiązania z tytułu wynagrodzeń 8 000,00 zł\n- kredyty bankowe długoterminowe 20 000,00 zł\nJakie jest procentowe udział zobowiązań długoterminowych w całkowitej kwocie zobowiązań?",
+    "options": [
+      "60 %",
+      "30 %",
+      "50 %",
+      "20 %"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Jaka będzie wysokość podatku VAT, jeżeli sprzedaż jest obciążona podstawową stawką, a wartość sprzedaży brutto towaru wynosi 4 920,00 zł?",
+    "options": [
+      "365,00 zł",
+      "464,00 zł",
+      "4 000,00 zł",
+      "920,00 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Oblicz, ile wyniesie podstawa opodatkowania podatkiem dochodowym od osób fizycznych z umowy o dzieło. Wynagrodzenie brutto wynosi 2 000,00 zł, a koszty uzyskania przychodu wynoszą 20%.",
+    "options": [
+      "1 600,00 zł",
+      "2 400,00 zł",
+      "400,00 zł",
+      "800,00 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "W jakich okolicznościach Skarb Państwa sprzedaje obligacje skarbowe?",
+    "options": [
+      "nadwyżki w budżecie",
+      "inflacji pełzającej",
+      "wysokiego poziomu bezrobocia",
+      "deficytu budżetowego"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Hurtownia żywności zatrudnia 1 000 pracowników, w tym 300 mężczyzn. Jaki procent całkowitej liczby zatrudnionych reprezentują kobiety?",
+    "options": [
+      "36%",
+      "84%",
+      "30%",
+      "70%"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Organizacja działająca w obszarze finansów publicznych, która pokrywa swoje wydatki bezpośrednio z budżetu, a uzyskane przychody przekazuje na konto budżetu państwowego lub budżetu danego samorządu terytorialnego to",
+    "options": [
+      "jednostka budżetowa",
+      "zakład budżetowy",
+      "gospodarstwo pomocnicze",
+      "fundusz celowy"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Jak długo należy przechowywać elektroniczne faktury?",
+    "options": [
+      "zależy od zasad archiwizacji ustalonych w firmie",
+      "wynosi 10 lat od momentu ich zarchiwizowania",
+      "jest taki sam jak dla faktur papierowych",
+      "wynosi 1 rok od daty ich wydrukowania"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W spółce akcyjnej, aby pokryć stratę, konieczne jest utworzenie kapitału zapasowego. Dopóki ten kapitał nie osiągnie minimum 1/3 kapitału zakładowego, należy przeznaczać na niego",
+    "options": [
+      "5% przychodów za dany rok finansowy",
+      "5% wartości dywidend w danym roku finansowym",
+      "8% wartości dywidend w danym roku finansowym",
+      "8% zysku za dany rok finansowy"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Władze spółki to zgromadzenie wspólników, rada nadzorcza, komisja rewizyjna oraz zarząd w przypadku:",
+    "options": [
+      "państwowego przedsiębiorstwa",
+      "spółki komandytowej",
+      "spółki z ograniczoną odpowiedzialnością",
+      "jednostki samorządowego zakładu budżetowego"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Zestawienie przychodów i wydatków rządu w danym roku kalendarzowym to",
+    "options": [
+      "budżet rządu.",
+      "bilans handlowy rządu.",
+      "dług krajowy państwa.",
+      "bilans płatniczy rządu."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Ustal kwotę zobowiązania wobec urzędu skarbowego z tytułu podatku VAT mając następujące dane z deklaracji:\n- Podatek należny łącznie: 2 460 zł\n- Podatek naliczony z uwzględnieniem korekt łącznie: 2 070 zł",
+    "options": [
+      "2 070 zł",
+      "390 zł",
+      "760 zł",
+      "2 460 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Na wykresie przedstawiono udział procentowy pracowników inżynieryjno-technicznych w stosunku do zatrudnienia ogółem. Do obliczeń zastosowano wskaźnik",
+    "options": [
+      "dynamiki.",
+      "regresji.",
+      "korelacji.",
+      "struktury."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Który z poniższych jest przykładem aktywów niematerialnych?",
+    "options": [
+      "Samochody firmowe",
+      "Budynki biurowe",
+      "Licencje oprogramowania",
+      "Materiały biurowe"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Z poniższych wariantów wybierz zestaw, który wskazuje zadania banku komercyjnego:\nA. Ochrona praw osób, emisja znaków, wydawanie zezwoleń dla brokerów.\nB. Przyjmowanie lokat, prowadzenie kont, wydawanie kart płatniczych, udzielanie kredytów.\nC. Dokonywanie transferów między kontami depozytowymi, emisja znaków pieniężnych, udzielanie kredytów innym bankom.\nD. Organizowanie obrotu walutami obcymi, bankowa obsługa budżetu państwa.",
+    "options": [
+      "B.",
+      "D.",
+      "A.",
+      "C."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Zjawisko inflacji w gospodarce pojawia się w wyniku wzrostu",
+    "options": [
+      "zatrudnienia.",
+      "ogólnego poziomu cen.",
+      "produktu krajowego brutto.",
+      "siły nabywczej pieniądza."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Jednym z historycznych lub wciąż aktualnych z perspektywy edukacyjnej zadań Ministerstwa Skarbu Państwa było:",
+    "options": [
+      "pobieranie podatków oraz innych należności budżetowych.",
+      "udzielanie wsparcia finansowego bankom, które mogą stracić wypłacalność.",
+      "opracowywanie projektów prywatyzacji.",
+      "przyznawanie i wypłacanie zasiłków dla osób bezrobotnych."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Jaką maksymalną pojemność może mieć magazyn, jeśli jego powierzchnia składowa wynosi 200 m2, a norma składowania wynosi 450 kg/m2?",
+    "options": [
+      "45 000 kg",
+      "90 000 kg",
+      "9 000 kg",
+      "4 500 kg"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W jakim zakładzie należy sklasyfikować cukier przechowywany w magazynie jako materiały?",
+    "options": [
+      "W sklepie",
+      "W cukierni",
+      "W cukrowni",
+      "W hurtowni spożywczej"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Jeśli cena sprzedaży brutto towaru objętego podstawową stawką VAT wynosi 4 920,00 zł, to jaka jest kwota należnego podatku VAT?",
+    "options": [
+      "920,00 zł",
+      "4 000,00 zł",
+      "464,00 zł",
+      "365,00 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "W jakiej spółce wspólnicy ponoszą odpowiedzialność majątkową wobec wierzycieli za zobowiązania spółki jedynie na etapie bytu spółki w organizacji, a docelowo za długi spółki co do zasady nie odpowiadają majątkiem prywatnym ponad wniesione wkłady?",
+    "options": [
+      "W spółce jawnej",
+      "W spółce partnerskiej",
+      "W spółce z ograniczoną odpowiedzialnością",
+      "W spółce cywilnej"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Jaki plan jest tworzony na czas krótszy niż rok?",
+    "options": [
+      "Taktyczny",
+      "Średniookresowy",
+      "Operacyjny",
+      "Długookresowy"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Drugi filar systemu emerytalnego był/jest oparty na",
+    "options": [
+      "dodatkowym ubezpieczeniu w Funduszu Ubezpieczeń Społecznych (FUS).",
+      "państwowym, powszechnym oraz obowiązkowym gromadzeniu funduszy przez rząd.",
+      "dodatkowym ubezpieczeniu w firmie ubezpieczeniowej.",
+      "prywatnym, powszechnym i obowiązkowym zgromadzaniu środków na koncie Otwartego Funduszu Emerytalnego (OFE)."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W poszczególnych okresach obrachunkowych stawki amortyzacji wyniosły odpowiednio 2 400 zł, 1 920 zł oraz 1 540 zł. Jaką metodę amortyzacji zastosowano w firmie?",
+    "options": [
+      "Liniową",
+      "Naturalną",
+      "Progresywną",
+      "Degresywną"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Którego kluczowego elementu brakuje w zamieszczonej umowie o pracę, aby spełniała wymogi formalne określone w Kodeksie pracy? Treść umowy określa stanowisko, miejsce wykonywania pracy, podstawę miesięcznego wynagrodzenia oraz datę zawarcia i rozpoczęcia pracy.",
+    "options": [
+      "Wymiaru urlopu wypoczynkowego.",
+      "Harmonogramu czasu pracy.",
+      "Wymiaru czasu pracy.",
+      "Okresu wypowiedzenia umowy."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Który pracownik otrzyma najwyższe wynagrodzenie brutto, jeśli podano wymiar etatu i pensję dla całego etatu?\nJan: 3/4 etatu z 3000 zł\nMaria: 1/2 etatu z 4100 zł\nKrzysztof: 7/8 etatu z 2800 zł\nBeata: 5/8 etatu z 3400 zł",
+    "options": [
+      "Jan Śliwiński.",
+      "Krzysztof Kruk.",
+      "Beata Podgórska.",
+      "Maria Hajduk."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Bezpieczeństwo i higiena pracy",
+    "text": "Ergonomiczne miejsce pracy to miejsce, które jest dopasowane do",
+    "options": [
+      "uwarunkowań psychofizycznych pracownika",
+      "zakresu zadań służbowych pracownika",
+      "cech osobowości pracownika",
+      "wieków i płci pracownika"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Z paragonu fiskalnego wynika:\n- Kaszka B (8%): 2,16 zł brutto\n- Ryż D (5%): 10,50 zł brutto\n- Baton A (23%): 1,23 zł brutto\nIle wynosi wartość brutto sprzedanych artykułów objętych stawką 8%?",
+    "options": [
+      "13,89 zł",
+      "2,16 zł",
+      "10,50 zł",
+      "2,00 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Tabela wskazuje:\n- Kapitał udziałowy: 120 000 zł\n- Kapitał zapasowy: 80 000 zł\n- Zysk: 10 000 zł\nAktywa trwałe stanowią 40% wartości kapitałów własnych. Oblicz wartość aktywów trwałych.",
+    "options": [
+      "104 000 zł",
+      "96 000 zł",
+      "84 000 zł",
+      "100 000 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "VAT ze sprzedaży (należny) w maju wyniósł 6 900 zł. VAT z zakupu (naliczony) w maju to 3 450 zł. Nadwyżka z kwietnia ujęta do przeniesienia to 1 100 zł. Wskaż kwotę podatku do rozliczenia za maj.",
+    "options": [
+      "4 550,00 zł – kwota należna od urzędu skarbowego.",
+      "4 550,00 zł – kwota podatku podlegającego wpłacie do urzędu skarbowego.",
+      "2 350,00 zł – kwota należna od urzędu skarbowego.",
+      "2 350,00 zł – kwota podatku podlegającego wpłacie do urzędu skarbowego."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Zamykając konto aktywów, należy zapisać saldo końcowe konta po stronie",
+    "options": [
+      "większych obrotów",
+      "mniejszych obrotów",
+      "debet",
+      "winien"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Księgowa, pracując na komputerze z aktywnym monitorem, ma prawo do przerwy wliczanej do czasu pracy po każdej godzinie pracy, która powinna wynosić co najmniej",
+    "options": [
+      "15 minut",
+      "5 minut",
+      "10 minut",
+      "20 minut"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Wszystkie przedsiębiorstwa, które w swoich nazwach wykorzystują skróty sp.j., sp.k. oraz sp. z o.o., zaliczane są do spółek",
+    "options": [
+      "wyłącznie osobowych",
+      "działających na podstawie kodeksu spółek handlowych",
+      "działających na podstawie kodeksu cywilnego",
+      "tylko kapitałowych"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Wysokość składek na ubezpieczenie zdrowotne dla pracownika wynosi",
+    "options": [
+      "2,45% podstawy wymiaru",
+      "6,50% podstawy wymiaru",
+      "9,00% podstawy wymiaru",
+      "9,76% podstawy wymiaru"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "Wskaźniki dynamiki łańcuchowej wydatków w poszczególnych kwartałach wynosiły kolejno: 110%, 106%, 102%. Oznacza to, że dynamika wydatków w analizowanym okresie",
+    "options": [
+      "zmniejszała się z kwartału na kwartał.",
+      "zwiększała się i zmniejszała się.",
+      "zwiększała się w równym tempie.",
+      "zwiększała się z kwartału na kwartał."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Dla zleceniobiorcy, który podlega jedynie ubezpieczeniu zdrowotnemu, sporządza się miesięczny raport imienny (biorąc pod uwagę dawne i specyficzne standardy testów EKA/AU):",
+    "options": [
+      "ZUS RCA",
+      "ZUS RZA",
+      "ZUS ZUA",
+      "ZUS ZZA"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Koszt jednostkowy wytworzenia produktu gotowego wynosił 60 zł. Produkcja w toku na koniec miesiąca osiągnęła 20% realizacji. Jakie jest koszt jednostkowy wyrobu w trakcie produkcji?",
+    "options": [
+      "60 zł",
+      "12 zł",
+      "15 zł",
+      "20 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Bezpieczeństwo i higiena pracy",
+    "text": "Jakie środki gaśnicze najlepiej zastosować do likwidacji pożaru w archiwum zakładowym (gdzie głównym materiałem jest papier, którego nie wolno niszczyć wodą)?",
+    "options": [
+      "gaśnicy płynnej",
+      "gaśnicy proszkowej",
+      "hydronetki z wodą",
+      "gaśnicy pianowej"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Hurtownia zakupiła paprykę:\n- 250 kg po 14,20 zł/kg\n- 200 kg po 14,00 zł/kg\n- 350 kg po 15,00 zł/kg\nIle wynosi średnia ważona cena jednego kilograma (do groszy)?",
+    "options": [
+      "14,80 zł",
+      "14,50 zł",
+      "14,40 zł",
+      "14,20 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Osoba zatrudniona na stanowisku kierowniczym otrzymała z tego tytułu dodatkowy element wynagrodzenia rekompensujący rozszerzony zakres odpowiedzialności. Jest to dodatek:",
+    "options": [
+      "Za wysługę lat.",
+      "Za staż.",
+      "Funkcyjny.",
+      "Zmienny."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Wypracowany zysk netto sp. z o.o. za 2011 rok przeznaczono na wypłatę dywidendy w łącznej wysokości 40 000 zł. Jaką kwotę otrzyma każdy z 5 udziałowców posiadających równe udziały?",
+    "options": [
+      "1 000 zł",
+      "8 000 zł",
+      "12 000 zł",
+      "3 000 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Jakie działanie pracodawcy może być uznane za nepotyzm?",
+    "options": [
+      "Faworyzowanie w rekrutacji pracowników spokrewnionych z pracodawcą",
+      "Wtrącanie się w prywatne życie i sprawy rodzinne pracownika",
+      "Przeznaczanie dużych sum pieniędzy na nagrody dla pracowników",
+      "Zatrudnianie osób bez odpowiednich kwalifikacji"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Podejście marketingowe, które opiera się na wprowadzaniu nowatorskich produktów po bardzo wysokich cenach, by w krótkim czasie maksymalizować zysk z innowacji, to strategia:",
+    "options": [
+      "prewencyjnego kształtowania cen",
+      "ekspansywnego kształtowania cen",
+      "penetracji",
+      "zbierania śmietanki"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Zapas gromadzony na wypadek opóźnienia w zaplanowanej dostawie materiałów, nazywany jest zapasem",
+    "options": [
+      "rezerwowym",
+      "sezonowym",
+      "produkcji",
+      "nadwyżkowym"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Koszty utrzymania magazynu w I kwartale wyniosły:\n- Obsługa magazynu 8 000 zł\n- Utrzymanie budynku 21 000 zł\n- Utrzymanie sprzętu 4 000 zł\nW II kwartale planuje się zmniejszenie kosztów obsługi o 10%, utrzymania budynku o 5%, a sprzętu na niezmienionym poziomie. Zatem całkowite koszty w II kwartale wyniosą:",
+    "options": [
+      "34 850,00 zł",
+      "28 050,00 zł",
+      "33 000,00 zł",
+      "31 150,00 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Na podstawie zapisów na kontach, ustal wartość ujawnionego niedoboru w rzeczywistym koszcie wytworzenia (zgodnie z ustandaryzowaną treścią zadania).",
+    "options": [
+      "30 100 zł",
+      "30 300 zł",
+      "10 100 zł",
+      "10 000 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Rodzaj spółki, w której wspólnicy ponoszą odpowiedzialność przed wierzycielami tylko do wysokości wniesionych wkładów, to spółka",
+    "options": [
+      "cywilna",
+      "partnerska",
+      "z ograniczoną odpowiedzialnością",
+      "jawna"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Analiza ekonomiczna",
+    "text": "Czym jest elastyczność w planie?",
+    "options": [
+      "umożliwienie wprowadzenia zmian w trakcie jego realizacji",
+      "ustalanie terminów dla celów pośrednich oraz celu głównego",
+      "uwzględnianie wszelkich działań koniecznych do osiągnięcia celu",
+      "jasna struktura ułatwiająca realizację postawionych celów"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W skład aktywów trwałych wchodzą wartości niematerialne i prawne oraz:",
+    "options": [
+      "środki trwałe, środki trwałe w budowie, należności długoterminowe, inwestycje długoterminowe",
+      "środki trwałe, środki trwałe w budowie, zapasy, należności długoterminowe",
+      "rzeczowe aktywa trwałe, zapasy, należności długoterminowe",
+      "rzeczowe aktywa trwałe, zapasy, inwestycje długoterminowe"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Do zadań biura maklerskiego (często w zadaniach mylonego pod pojęciem działalności brokerskiej) należy?",
+    "options": [
+      "przeprowadzanie transakcji zakupu i sprzedaży papierów wartościowych na zlecenie inwestorów",
+      "dopuszczanie papierów wartościowych do obrotu giełdowego",
+      "promowanie wiedzy o zasadach działania rynku papierów wartościowych",
+      "rozliczanie transferów między aktywnymi funduszami emerytalnymi"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Analiza ekonomiczna",
+    "text": "Biorąc pod uwagę okres (horyzont czasowy), na który tworzone są strategie w firmach (np. na lata do przodu), wyróżniamy plany",
+    "options": [
+      "problematyczne",
+      "fragmentaryczne",
+      "długookresowe",
+      "całościowe"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Bezpieczeństwo i higiena pracy",
+    "text": "Przygotowując miejsce pracy na komputerze dla pracownika zgodnie z zasadami BHP, na co należy zwrócić szczególną uwagę?",
+    "options": [
+      "odpowiednią wysokość biurka i krzesła",
+      "typ urządzeń peryferyjnych",
+      "pojemność dysku twardego",
+      "typ okien i drzwi"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "W celu oceny poziomu zamrożenia kapitału w zapasach stosuje się wskaźnik",
+    "options": [
+      "zyskowności zapasów",
+      "deficytowości zapasów",
+      "rotacji zapasów",
+      "rentowności zapasów"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Problemy w miejscu pracy związane z negatywnymi interakcjami (np. konfliktami, mobbingiem) z interesariuszami mogą u pracowników prowadzić do",
+    "options": [
+      "nerwicą, stresem i depresją",
+      "zmęczenia, zatrucia i bólu głowy",
+      "zaczerwienienia skóry, nerwic i bezsenności",
+      "pogorszenia widzenia, zmęczenia i depresji"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "W cukrowni, miesięczne zużycie buraków cukrowych wynosi 42 000 kg, co odpowiada 30 dniom. Czasowy wskaźnik zapasu minimalnego to 7 dni. Jaką wartość powinien mieć minimalny zapas buraków w kilogramach?",
+    "options": [
+      "12 600 kg",
+      "15 400 kg",
+      "1 400 kg",
+      "9 800 kg"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Pracownik w systemie akordowym wykonał 360 sztuk wyrobów, z czego 340 sztuk spełniało normy jakościowe. Ustalona norma pracy to 0,5 godziny na 1 sztukę, a wynagrodzenie godzinowe to 24 zł/godz. Jakie wynagrodzenie wypłacono (płacąc wyłącznie za prawidłowo wykonane normy)?",
+    "options": [
+      "4 320,00 zł",
+      "4 032,00 zł",
+      "8 160,00 zł",
+      "4 080,00 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Hurtownia nabyła towar za cenę brutto 1 033,20 zł (z czego VAT to 23%), natomiast sprzedaje go po cenie netto 1092,00 zł. Marża hurtowa (narzut) obliczona od ceny zakupu netto wynosi:",
+    "options": [
+      "30%",
+      "53%",
+      "23%",
+      "25%"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Środek trwały ma wartość początkową 24 000 zł i jest amortyzowany liniowo kwotą rocznego zużycia 2 400 zł. Roczna stopa amortyzacji to:",
+    "options": [
+      "20%",
+      "10%",
+      "2%",
+      "1%"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Która z poniższych umów podlega regulacjom Kodeksu pracy?",
+    "options": [
+      "Umowa zlecenia",
+      "Umowa o dzieło",
+      "Umowa agencyjna",
+      "Umowa o pracę na czas określony"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Jaka jest wysokość składki na ubezpieczenie emerytalne dla pracownika zatrudnionego na podstawie umowy o pracę?",
+    "options": [
+      "8,00% podstawy wymiaru, finansowana w równych częściach przez pracownika oraz pracodawcę",
+      "19,52% podstawy wymiaru, finansowana w równych częściach przez pracownika i pracodawcę",
+      "9,76% podstawy wymiaru, finansowana wyłącznie przez pracodawcę",
+      "2,45% podstawy wymiaru, finansowana wyłącznie przez pracownika"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W spółce z ograniczoną odpowiedzialnością organem odpowiedzialnym za zarządzanie majątkiem spółki, prowadzenie spraw oraz reprezentowanie jej na zewnątrz jest",
+    "options": [
+      "Zgromadzenie wspólników",
+      "Komisja rewizyjna",
+      "Zarząd spółki",
+      "Rada nadzorcza"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Kto w Polsce uchwala budżet państwa (w formie ustawy budżetowej)?",
+    "options": [
+      "Rada Ministrów",
+      "Prezydent Rzeczypospolitej",
+      "Sejm",
+      "Senat"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Pobrane zaliczki na podatek dla pracowników z listy płac wynoszą w sumie 3 300,00 zł. Wynagrodzenie z tytułu terminowego wpłacania podatku dochodowego (dla płatnika) to 10,00 zł. Ile pracodawca przekaże do US?",
+    "options": [
+      "3 310,00 zł",
+      "1 060,00 zł",
+      "2 240,00 zł",
+      "3 290,00 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Zestawienie urlopowe Jana Głowackiego wykazuje 4 dni urlopu z roku ubiegłego oraz 20 dni przysługującego w roku bieżącym. W bieżącym roku pracownik wykorzystał już z zaplanowanych terminów łącznie 22 dni. Ile dni urlopu przenieść na rok kolejny?",
+    "options": [
+      "4 dni.",
+      "2 dni.",
+      "24 dni.",
+      "22 dni."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W toku inwentaryzacji ustalono stan ewidencyjny 1 500 zł, stan rzeczywisty 1 000 zł i normę ubytków naturalnych 200 zł. Cały ponadnormatywny niedobór został uznany przez kierownika za niezawiniony. Wynosi on:",
+    "options": [
+      "300 zł",
+      "1 000 zł",
+      "200 zł",
+      "500 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "W celu zgłoszenia nowo zatrudnionego pracownika do ubezpieczenia społecznego oraz zdrowotnego, wykorzystuje się formularz",
+    "options": [
+      "ZUS ZWUA",
+      "ZUS ZIUA",
+      "ZUS RZA",
+      "ZUS ZUA"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "W celu zachowania ciągłości zaplanowano rotację na poziomie 10 dni. W badanym kwartale (90 dni) średni zapas to 20 000 zł, a przychody 100 000 zł. Rzeczywisty okres obrotu wynosi więc 18 dni i ukształtował się w sposób:",
+    "options": [
+      "dłuższy o 5 dni.",
+      "krótszy o 8 dni.",
+      "krótszy o 5 dni.",
+      "dłuższy o 8 dni."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Kto przyznaje numer identyfikacyjny REGON?",
+    "options": [
+      "Powiatowy Urząd Pracy.",
+      "Urząd Statystyczny.",
+      "Gmina.",
+      "Kasa Skarbowa."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Porównując wskaźnik rentowności sprzedaży (zysk netto do przychodów) w latach 2009-2012, wybierz rok w którym był on najbardziej opłacalny (najwyższy procentowo). Dane dla lat kolejno: (2009: 15k zysku do 90k); (2010: 10k do 95k); (2011: 12k do 60k); (2012: 15k do 105k).",
+    "options": [
+      "2012",
+      "2011",
+      "2010",
+      "2009"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Analiza ekonomiczna",
+    "text": "Zasada planowania, która polega na łączeniu konkretnych działań oraz koncentrowaniu się na tych, które najszybciej doprowadzą do osiągnięcia zamierzonych rezultatów, to zasada",
+    "options": [
+      "gospodarności",
+      "wariantowych rozwiązań",
+      "elastyczności planowania",
+      "koncentracji"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Ze względu na przedmiot (temat) rozróżnia się plany m.in.:",
+    "options": [
+      "bieżące, taktyczne, długookresowe",
+      "jednorazowe, okresowe, ciągłe",
+      "produkcyjne, marketingowe, finansowe",
+      "operacyjne, strategiczne, perspektywiczne"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "W momencie ujęcia w księgach należności z tytułu dostaw i usług, ich wartość księguje się przeważnie:",
+    "options": [
+      "zgodnie z wartością godziwą",
+      "na podstawie ceny sprzedaży netto",
+      "na podstawie wartości wiarygodnie oszacowanej",
+      "według wartości nominalnej"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Kupna detalicznych obligacji skarbowych (np. pięcioletnich indeksowanych) można zazwyczaj dokonać za pośrednictwem placówek lub systemów internetowych agenta emisji, którym w Polsce od lat w przeważającej mierze pozostaje główne państwowe",
+    "options": [
+      "Biura Maklerskiego",
+      "Giełdy Papierów Wartościowych",
+      "Komisji Papierów Wartościowych",
+      "Krajowego Depozytu Papierów Wartościowych"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Przedsiębiorca w dniu 8 maja 2019 r. otrzymał decyzję. Ma 14 dni na odwołanie. Wskaż ostatni dzień na wniesienie sprzeciwu.",
+    "options": [
+      "28 maja 2019 r.",
+      "21 maja 2019 r.",
+      "22 maja 2019 r.",
+      "27 maja 2019 r."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Wzrastające wartości wskaźnika produktywności aktywów świadczą",
+    "options": [
+      "o większej efektywności wykorzystywania zaangażowanych w działalność źródeł finansowania zasobów majątkowych",
+      "o mniejszej efektywności wykorzystywania zaangażowanych w działalność zasobów majątkowych",
+      "o większej efektywności wykorzystywania zaangażowanych w działalność zasobów majątkowych",
+      "o mniejszej efektywności wykorzystywania zaangażowanych w działalność źródeł finansowania zasobów majątkowych"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Jakie główne zadanie realizuje Regionalna Izba Obrachunkowa?",
+    "options": [
+      "tworzenie projektów ustaw oraz wydawanie rozporządzeń odnoszących się do finansów publicznych.",
+      "zarządzanie obsługą długu publicznego.",
+      "nadzór nad funkcjonowaniem jednostek samorządu terytorialnego w obszarze finansów.",
+      "współpraca w zakresie finansów z zagranicznymi instytucjami oraz organizacjami finansowymi."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Płaca minimalna rosła w latach z 1386 na 1500 (2012), 1600 (2013), 1680 (2014) oraz 1750 zł (2015). Największa procentowo dynamika wzrostu bazowa rok-do-roku zanotowana została w roku:",
+    "options": [
+      "W 2015 roku.",
+      "W 2012 roku.",
+      "W 2014 roku.",
+      "W 2013 roku."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Pani Janina chce mieć równe 5 500 złotych. Zakłada roczną lokatę oprocentowaną w 10% w skali roku (bez uwzględniania podatku od zysków). Ile musi zdeponować już dzisiaj na lokacie?",
+    "options": [
+      "6 005 złotych",
+      "6 050 złotych",
+      "4 950 złotych",
+      "5 000 złotych"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Treść typowego dokumentu kadrowego (tzw. porozumienie zmieniające na okres do 3 miesięcy lub polecenie służbowe wg art. 42 Kodeksu Pracy z powodu uzasadnionych potrzeb pracodawcy) dotyczy zazwyczaj:",
+    "options": [
+      "zawarcia umowy o pracę na okres próbny.",
+      "czasowego skierowania pracownika na staż do Londynu.",
+      "oświadczenia pracownika o zapoznaniu się z regulaminem wynagradzania.",
+      "czasowego powierzenia pracownikowi wykonywania innej pracy."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Osoba fizyczna zatrudniająca pracowników na etat opłaca składki za dany miesiąc w terminie w standardowych systemach rozliczeniowych egzaminów CKE do (zakładając brak dni wolnych przesuwających terminy w opisywanym maju):",
+    "options": [
+      "10 maja br.",
+      "15 maja br.",
+      "6 maja br.",
+      "20 maja br."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Umowy zlecenia są zawierane i realizowane m.in. w oparciu o przepisy",
+    "options": [
+      "Kodeksu cywilnego",
+      "Kodeksu pracy",
+      "Kodeksu spółek handlowych",
+      "Kodeksu postępowania administracyjnego"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Zarząd to obligatoryjny organ występujący w spółkach szczebla kapitałowego, takich jak m.in.:",
+    "options": [
+      "partnerskiej i komandytowej",
+      "z ograniczoną odpowiedzialnością i jawnej",
+      "komandytowej i cywilnej",
+      "akcyjnej i z ograniczoną odpowiedzialnością"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Klient nabył produkt z 3% zniżką, płacąc za niego po obniżce 727,50 zł. Jaka była pierwotna cena produktu przed udzieleniem rabatu?",
+    "options": [
+      "706,31 zł",
+      "749,33 zł",
+      "750,00 zł",
+      "705,67 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Wzrost wartości wskaźnika rotacji należności wyrażonego w dniach wskazuje",
+    "options": [
+      "na poprawę efektywności zarządzania należnościami",
+      "na skracający się okres kredytowania odbiorców",
+      "na malejącą skuteczność windykacji należności",
+      "na rosnącą skuteczność windykacji należności"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Która zasada w planowaniu odnosi się do dążenia do osiągnięcia najlepszych rezultatów w określonych warunkach i przy ustalonych nakładach poniesionych w celu ich realizacji (maksymalizacji efektu)?",
+    "options": [
+      "Zasada realności planu",
+      "Zasada gospodarności",
+      "Zasada koncentracji",
+      "Zasada elastyczności"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Równanie obrazujące klasyczną zasadę równowagi bilansowej (majątek pochodzący ze źródeł) to:",
+    "options": [
+      "kapitał własny = zobowiązania",
+      "aktywa trwałe = aktywa obrotowe",
+      "aktywa trwałe + aktywa obrotowe = kapitał własny + kapitał obcy",
+      "aktywa trwałe + zobowiązania = aktywa obrotowe + kapitał własny"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Zasiłek chorobowy z tytułu niezdolności do pracy powstałej na skutek wypadku przy pracy (z ubezpieczenia wypadkowego) jest wypłacany w wysokości",
+    "options": [
+      "75% podstawy wymiaru",
+      "70% podstawy wymiaru",
+      "80% podstawy wymiaru",
+      "100% podstawy wymiaru"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "W czasie normatywnych 100 godzin, przy przewidzianym czasie na jedną sztukę wynoszącym 0,1 godz., należało wyprodukować 1000 szt. Maszyna wyprodukowała w tym czasie 1 200 szt. W jakim stopniu wykonano normę czasu/wydajności?",
+    "options": [
+      "W 150%",
+      "W 20%",
+      "W 100%",
+      "W 120%"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Podstawowym aktem powszechnym prawnym ustalającym w Polsce ramy oraz zasady prowadzenia ksiąg, to ustawa",
+    "options": [
+      "o doradztwie podatkowym",
+      "o rachunkowości",
+      "o swobodzie działalności gospodarczej",
+      "o finansach publicznych"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Ewidencja magazynowa wykazuje na stanie 50 ton materiału. Spis z natury ustalił stan faktyczny na poziomie zaledwie 45 ton. Różnica ta stanowi dla ewidencji magazynowej:",
+    "options": [
+      "niedobór zapasu materiałów wynoszący 10 ton",
+      "nadwyżka zapasu materiałów wynosząca 10 ton",
+      "nadwyżka zapasu materiałów wynosząca 5 ton",
+      "niedobór zapasu materiałów wynoszący 5 ton"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "W firmie w I kwartale przeciętny stan zatrudnienia wynosił 60 osób. Przyjęto 6 osób. Wskaźnik przyjęć wyliczony jako (przyjęcia/przeciętny stan) wynosi 10%, co oznacza logicznie że:",
+    "options": [
+      "w firmie pracuje 60 osób.",
+      "zwolnieni pracownicy stanowią 5% przeciętnego stanu zatrudnienia.",
+      "do pracy przyjęto 6 osób.",
+      "nowo zatrudnieni pracownicy stanowią 10% przeciętnego stanu zatrudnienia."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Dostawy partiami to:\n- 300 sztuk (10 zł/szt)\n- 200 sztuk (12 zł/szt)\n- 400 sztuk (11 zł/szt)\nWydano jednorazowo 650 sztuk towaru metodą LIFO (Last In First Out). Oblicz łączną wycenioną wartość dla rozchodu z magazynu.",
+    "options": [
+      "7 300,00 zł",
+      "7 050,00 zł",
+      "7 150,00 zł",
+      "7 072,00 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Na wzrost wydajności pracy w firmie mogą pozytywnie oddziaływać różnorodne czynniki wsparcia technologicznego, czy procesów innowacyjnej produkcji (pytanie wielokrotnego wariantu graficznego dla modułu Zarządzanie - domyślna struktura):",
+    "options": [
+      "D.",
+      "B.",
+      "C.",
+      "A."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Na podstawie zewnętrznych dokumentów magazynowych przyjęcia PZ (szczegółowy cennik podany był na oryginalnym schemacie). Przez brak możliwości odczytu kwoty cząstkowej wstaw poprawny identyfikator.",
+    "options": [
+      "150 zł",
+      "130 zł",
+      "160 zł",
+      "140 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Dla pracownika z ponad rocznym stażem pracy na umowie na czas nieokreślony, długość przysługującego okresu wypowiedzenia w rozumieniu KP wynosi:",
+    "options": [
+      "1 tydzień",
+      "3 miesiące",
+      "1 miesiąc",
+      "2 miesiące"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Pracodawca zawarł umowę o pracę na czas określony, w której umieszczono jedynie miejsce, stanowisko pracy oraz wynagrodzenie bez doprecyzowania ułamka lub wymiaru godzinowego. Brakuje w niej określenia:",
+    "options": [
+      "Miejsca wykonywania pracy.",
+      "Rodzaju pracy.",
+      "Terminu rozpoczęcia pracy.",
+      "Wymiaru czasu pracy."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Cena uwzględniająca kwotę do zapłaty (łącznie z należnym podatkiem VAT np. 246 zł) to inaczej cena:",
+    "options": [
+      "zakupu netto",
+      "nabycia",
+      "zakupu brutto",
+      "rynkowa"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Dla którego poziomu produkcji firma dociera do momentu, gdzie jej przychody całkowite zrównują się z kosztami i osiąga próg rentowności (zero zysków i strat)? Z tabeli: Przychody na pułapie 30 tys szt. wynoszą 190 tys. zł; Koszty w tym czasie również w wysokości 190 tys. zł.",
+    "options": [
+      "Przychody całkowite na poziomie 250 000 zł, koszty całkowite na poziomie 170 000 zł.",
+      "Przychody całkowite na poziomie 190 000 zł, koszty całkowite na poziomie 190 000 zł.",
+      "Przychody całkowite na poziomie 160 000 zł, koszty całkowite na poziomie 220 000 zł.",
+      "Przychody całkowite na poziomie 140 000 zł, koszty całkowite na poziomie 250 000 zł."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Co oznacza w dziedzinie zarządzania kadrami pojęcie selekcji pozytywnej?",
+    "options": [
+      "wybraniu najlepszych aplikantów spośród wielu ubiegających się o zatrudnienie",
+      "zmianach w personelu na podstawie umowy między pracodawcami",
+      "odrzuceniu osób uznanych za nieodpowiednie do wykonywania określonej pracy",
+      "realizacji bieżących badań rynku pracy w celu dostosowania programu kształcenia"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Analiza ekonomiczna",
+    "text": "W biznesplanie badanie środowiska w jakim funkcjonuje podmiot w swoim otoczeniu zewnętrznym na danym obszarze opisuje z reguły sekcja nazywana:",
+    "options": [
+      "Analiza rynku i konkurencji",
+      "Opis procesu produkcyjnego",
+      "Charakterystyka wytwarzanego produktu",
+      "Ocena finansów oraz ich prognozowanie"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Złożenie kapitału 50 000 zł na lokacie trzymiesięcznej o stałym oprocentowaniu wynoszącym 6% rocznie przed potrąceniem należnych danin kapitałowych wygeneruje naliczone odsetki w wysokości równej:",
+    "options": [
+      "1 500 zł",
+      "500 zł",
+      "3 000 zł",
+      "750 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Bezpieczeństwo i higiena pracy",
+    "text": "Brak wyłączenia napięcia sieciowego podczas własnoręcznej interwencji przy mechanicznych usterkach elektrycznych urządzeń biurowych naraża użytkownika przede wszystkim na możliwość:",
+    "options": [
+      "alergię na toner",
+      "porażenie prądem",
+      "zwichnięcie ręki",
+      "złamanie ręki"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Instruktaż stanowiskowy na stanowisku pracownika zapoznający z warunkami oraz zasadami obowiązującymi w miejscu wykonywania u pracodawcy musi zawsze odbywać się:",
+    "options": [
+      "pod koniec pierwszego dnia zatrudnienia",
+      "po 4 godzinach wykonywania obowiązków na danym stanowisku",
+      "przed rozpoczęciem pracy",
+      "w trakcie pierwszego tygodnia pracy"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Przeciętne zatrudnienie zakładowe wynosiło 200 osób (w tym 60 w administracji, 20 pomocników i reszta pracowników produkcyjnych na poziomie 120 osób). Jaki był udział procentowy zespołu produkcyjnego?",
+    "options": [
+      "50%",
+      "80%",
+      "40%",
+      "60%"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "System czasowo-prowizyjny składa się z elementu stałego i premii od osiągniętej wartości sprzedaży. Zasadnicze: 2000 zł, prowizja: 20% od obrotu 4000 zł. Ile wyniesie wynagrodzenie pracownika ogółem?",
+    "options": [
+      "2 400,00 zł",
+      "3 000,00 zł",
+      "4 400,00 zł",
+      "2 800,00 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Cena wyeksponowanego w butiku na witrynie kostiumu ze stawką w podstawowej kategorii 23% wynosi brutto 246 zł. Podstawa do naliczenia tego podatku (wartość netto) z paragonu to:",
+    "options": [
+      "302,58 zł",
+      "56,58 zł",
+      "46,00 zł",
+      "200,00 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Komisja podczas przeglądu wykryła jednoczesną nadwyżkę w wafelkach orzechowych (3 kg po 20 zł) i niedobór w wafelkach migdałowych (2 kg po 22 zł). Kompensując mniejszą ilość wg niższej wyceny do granicy kompensaty ujęto wartość kompensaty na:",
+    "options": [
+      "40,00 zł",
+      "66,00 zł",
+      "44,00 zł",
+      "60,00 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Stanisław Nowakowski, który rozpoczyna działalność gospodarczą jako osoba fizyczna składa tzw. wniosek jednego okienka integrujący dane z US czy ZUS, składając to powiadomienie z definicji za pośrednictwem sytemu w:",
+    "options": [
+      "Centralnej Ewidencji i Informacji o Działalności Gospodarczej",
+      "właściwego urzędu statystycznego w danym rejonie",
+      "właściwego urzędu gminy w danej lokalizacji",
+      "Krajowego Rejestru Sądowego (KRS)"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Sprzedaż bazowa roku ubiegłego wykazuje przychody 840 000 zł. Plany na obecny i trwający budżet zwiększają sprzedaż roczną do pułapu 920 000 zł. Dynamika łańcuchowa tego zjawiska ukształtuje się na oczekiwanym poziomie wartościowym równym:",
+    "options": [
+      "109,5%",
+      "8,7%",
+      "91,3%",
+      "9,1%"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Na wyprodukowanie jednej mierzalnej sztuki luksusowej marynarki krojownia potrzebuje teoretycznego wykorzystania 3 mb kosztownego materiału. Biorąc pod uwagę straty manipulacyjne procesu ok. 10% przy cięciu ze skrawków całkowite zapotrzebowanie do uszycia 100 marynarek pochłonie:",
+    "options": [
+      "250 mb",
+      "270 mb",
+      "330 mb",
+      "300 mb"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Z poniższych wariantów wskaż tę grupę, do której przynależą z nazwy prawnie formy kwalifikujące się wyłącznie jako handlowe spółki na prawie osobowym KSH.",
+    "options": [
+      "Grupa D. (- jawna, - partnerska, - komandytowa, - komandytowo-akcyjna)",
+      "Grupa C. (- z o.o., - partnerska, - komandytowa, - komandytowo-akcyjna)",
+      "Grupa B. (- jawna, - akcyjna, - partnerska, - komandytowo-akcyjna)",
+      "Grupa A. (- z o.o., - akcyjna, - partnerska, - komandytowo-akcyjna)"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Wieloletnia horyzontalna formuła, której zadaniem jest odpowiedź na wyzwania w długoterminowym planie kreowania firmy czy obieraniu długich i makro-kierunków rozwoju nosi miano dokumentu i planu",
+    "options": [
+      "strategicznym",
+      "średniookresowym",
+      "operacyjnym",
+      "krótkookresowym"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Pula z doliczaniem przepracowanych lat wliczanych po zakończeniu danej ścieżki i typu szkoły wykreowała najwyższy sumaryczny staż pracowniczy powyżej dekady u osoby (co dało jej roszczenie do 26 dni roboczych przysługującego urlopu rocznie), którą wedle przepisów jest:",
+    "options": [
+      "Adam Biernat (ZSZ + 6 lat wliczanych)",
+      "Jacek Piotrowski (szkoła policealna + 4 lat do stażu)",
+      "Anna Lichocka (technikum + krótki wliczany staż)",
+      "Jolanta Będzińska (dyplom + najkrótszy staż miesięczny z zestawienia)"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "VAT należny od sprzedaży wyniósł w rejestrze dla fiskusa 2 000,00 zł. VAT naliczony do odliczenia z nabytków wynosi 900,00 zł. Ponadto z lipca przeniesiono jeszcze nadwyżkę 600,00 zł. Ustal jaką kwotę zobowiązania przelać za ten sierpień do US?",
+    "options": [
+      "1 700,00 zł",
+      "1 100,00 zł",
+      "600,00 zł",
+      "500,00 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Dokument obrotu materiałami pod popularnym skrótem magazynowym \"Rw\" służy głównie rozliczeniom z księgowością i dotyczy rozchodu z potoczną nazwą na dyspozycję zużycia na stanowiska do celów obrotu objętych dowodem typu",
+    "options": [
+      "zewnętrznym magazynowym",
+      "wtórnym magazynowym",
+      "wewnętrznym magazynowym",
+      "rozrachunkowo-magazynowym"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "Producent drewnianych mebli obliczył swe średnie kwartalne równe i stałe zużycie desek dębowych na 9000 sztuk. Utrzymanie bezpiecznego minimalnego żelaznego zapasu czasowego zadekretowano na poziomie 6 obrotowych dni pracy. Ile wynosi sztuk ten bufor awaryjny?",
+    "options": [
+      "300 szt.",
+      "100 szt.",
+      "600 szt.",
+      "900 szt."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Sztandarowym i najważniejszym odróżniającym znakiem wiążącym się nieodłącznie ze świadczeniem pracy w świetle interpretacji KP na podstawie etatu roboczego zawieranego we wzajemnej umowie o pracę, pozostaje cecha uległości zdefiniowana jako:",
+    "options": [
+      "nierówność pomiędzy stronami umowy",
+      "podporządkowanie pracownika pracodawcy",
+      "osiągnięcie przez pracownika konkretnych efektów",
+      "brak wynagrodzenia za wykonywaną pracę"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Własna, udana wieloletnia emisja 2-letnich obligacji to dla księgowości emitującej je spółki akcyjnej zastrzyk pieniądza ujęty formalnie pod kątem docelowego wariantu pasywnego bilansu finansowego jako:",
+    "options": [
+      "długoterminowe papiery wartościowe",
+      "kapitał akcyjny",
+      "zobowiązania z tytułu emisji dłużnych papierów wartościowych",
+      "inwestycje długoterminowe"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Obszar konfrontujący poszukiwania zapotrzebowania przez zgłaszających wolne etaty na rynku roboczym, przeciwko dążącym na ten rynek zasobom kwalifikowanej i sprawnej kadry poszukującej stabilnego stałego zajęcia pod szyldami HR nazywamy powszechnie rynkiem",
+    "options": [
+      "pracy",
+      "kapitałowego",
+      "dóbr",
+      "usług"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Gospodarka magazynowa",
+    "text": "Utrzymanie wysokiej sprawności logistycznej z krótkim procesem mrożenia aktywów finansowych na pułkach w halach najlepiej przedstawia wskaźnik zapasów i cykl mierzony rotacją na najniższych możliwych z dostępnych minimów obrotowych w dniach, czyli mierzony najefektywniej u spółki równej:",
+    "options": [
+      "B. Betex (18 dni)",
+      "D. Detex (24 dni)",
+      "C. Ceranix (20 dni)",
+      "A. Aldex (22 dni)"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Świadome zakupywania bardzo znacznych ponadnormatywnych zapasów przez główny dział zaopatrzenia tuż po ogłoszeniu perspektywy przyszłych zwyżek lub niedoborów celem spekulacyjnego wykorzystania różnic wartości to potoczne magazynowanie tzw. zapasu typu:",
+    "options": [
+      "zapas bieżący",
+      "zapas spekulacyjny",
+      "zapas cykliczny",
+      "zapas sezonowy"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Marketing i zarządzanie",
+    "text": "Jakim stylem zarządzania kapitałem kadrowym oraz kulturą dyskusji decyzyjnej posługuje się na ogół łagodnie partycypujący lub wręcz mocniej uspołeczniony i pomocny we wzajemnej koncyliacyjnej zgodzie zarząd czy szczebel delegowania wyższego przełożonego?",
+    "options": [
+      "Współuczestnictwo (Demokratyczny, Klubowy, Integracyjny)",
+      "Szkolenie",
+      "Motywowanie",
+      "Przekazywanie uprawnień"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "W odniesieniu do starszych historycznych norm ryczałtowego podatku płatnego pod postacią zadeklarowanej karty opodatkowania przedsiębiorstwa zgłoszeniowego, podatnicy składali w styczniu oświadczenie o dedukowanych opłacanych i zgłoszonych odliczeniach pod drukiem PIT-16A w ustawowym nieprzekraczalnym corocznym limicie oznaczonym jako:",
+    "options": [
+      "końca lutego roku następującego po roku podatkowym",
+      "końca kwietnia roku następującego po roku podatkowym",
+      "31 stycznia roku następującego po roku podatkowym",
+      "31 marca roku następującego po roku podatkowym"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Zakończenie stosunku rocznego angażu obliguje byłego zatrudniającego w trybie natychmiastowych przepisów do wystosowania ostatecznego wymeldowującego druku i poświadczonego systemowo odmeldowania wygaśnięcia podstaw ubezpieczenia społecznego we właściwym ZUS pod kodem druku na zunifikowanym formularzu o symbolu",
+    "options": [
+      "ZUS ZIUA",
+      "ZUS ZWPA",
+      "ZUS ZWUA",
+      "ZUS ZCNA"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Ekskluzywna wyselekcjonowana marka luksusowa podpisująca wieloletnie ścisłe kontrakty na reprezentowanie sprzedaży na wskazanym ogromnym terytorium terytorialnym jedynie przez precyzyjnie certyfikowany pojedynczy prestiżowy wyłączny podmiot sieciowy to forma zwana dystrybucją",
+    "options": [
+      "wybiórczą",
+      "wyłączną",
+      "intensywną",
+      "selektywną"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Księgowa analiza majątku na tle sprawozdawczym analizuje strukturę finansów pasywów jak i rentowność portfela firmowego. Nie jest jednak jej istotą ani wprost składową inwentaryzacyjne zajmowanie się wyodrębnioną analitycznie specyfikacją obrotów wyłącznie stref na:",
+    "options": [
+      "przychodów oraz kosztów",
+      "stanu majątkowego",
+      "gospodarki materiałowej (to część inżynierii logistycznej lub stricte rzeczowej bilansówki techniczno-obrotowej)",
+      "wyników finansowych i rentowności"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Analiza ekonomiczna",
+    "text": "Plan i predykcja wyznaczone w perspektywie kilku rzetelnych letnich obrotów kalendarzowych ze stosunkowo dokładnym wymiernym wskaźnikiem realizacji w obrębie roku-dwóch wyodrębnia się kategoryzując ją często jako rzetelnie ułożony cel obrotowy w pojęciu i przedziale ramy:",
+    "options": [
+      "aktualny",
+      "taktyczny",
+      "operacyjny",
+      "krótkoterminowy"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Po dokładnej analizie planu zadeklarowanych oraz przeniesionych zaległych dni urlopowych wywiedziono wniosek, że Jan Pasek i Renata Rusin wykorzystają sumarycznie 100% przysługującego w bilansie dniowego odpoczynku za to niektórzy sprzedawcy urlopy przesunęli stąd wynika, że:",
+    "options": [
+      "Iwonie Skorek i Renacie Rusin zostaną jeszcze do wykorzystania po 4 dni urlopu.",
+      "Jan Pasek i Marek Bąk mają zaplanowane terminy wykorzystania całego urlopu.",
+      "Jan Pasek i Renata Rusin mają zaplanowane terminy wykorzystania całego urlopu.",
+      "Iwonie Skorek i Markowi Bąkowi zostanie jeszcze do wykorzystania po 10 dni urlopu."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Stałocenowy wsad magazynowy zaksięgowany poprzez wyłączną jednorodną systemową wycenę ewidencyjną rzędu 6 zł za kilogram z fizycznym i udokumentowanym przybiciem dostawy i sprawdzeniem przyjęcia przez kontrolę wag w wolumenie pełnych wymiarowych 1000 kg rodzi bilansową wartość ujętą przez podmiot na blankiecie przyjęciowym Pz jako",
+    "options": [
+      "6 100 zł",
+      "6 000 zł",
+      "7 320 zł",
+      "5 000 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Prawidłowe cykliczne bieżące spłacanie zobowiązań do skarbówki do podwykonawców na czas bytu to miano posiadania przez organizację biznesową stałej niewywrotnej stabilnej rynkowo obrotowej",
+    "options": [
+      "płynności finansowej.",
+      "rotacji zobowiązań.",
+      "obrotowości aktywów.",
+      "rentowności aktywów."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Podmiot dolicza bardzo zyskowną i pokaźną pół-proporcjonalną 50-procentową kwotową marżę wyliczaną metodą ułamkową (narzutem) do netto kosztów nabycia i pierwotnej samej w sobie ceny hurtowych baz z opłaconego przedtem hurtownika wycenionych jednostkowo na 1200 zł netto. Powiększona sprzedaż opiewa o 23% kwoty prawnej państwowej. Ceną wystawianą i należną detalicznemu ostatecznemu konsumentowi to",
+    "options": [
+      "1 800 zł",
+      "2 928 zł",
+      "2 400 zł",
+      "2 196 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Kalkulację podziałową w trybie prostej najjednorodniejszej bazy nakładów całostkowych ze zredukowaniem matematycznym ułamka mianownika wyłącznie do jednego zbioru wytwórni wyrobu z reguły uprawnieni księgowo bywają wykorzystać producenci tylko tacy jak wyłączni dostarczyciele jednej grupy asortymentowej z daną miarą wag i tonaży w przykładzie takim jak:",
+    "options": [
+      "Zakład produkcji ceramiki budowlanej, który wytwarza cegły, dachówki oraz stropy",
+      "Rafineria, w której w trakcie jednego procesu technologicznego powstają benzyna i olej jako produkty główne oraz gaz jako produkt dodatkowy",
+      "Browar specjalizujący się w produkcji piwa jasnego, ciemnego oraz piwa bezalkoholowego",
+      "Kopalnia, która dostarcza węgiel (wydobywając jeden produkt zbiorczo rozliczany za masę)"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Baza kwotowa w wysokości 10000 zł zredukowana odpisywaną na dwa minione lata amortyzacją równomierną na prostej płaskiej rocznej niezmiennej ratalnej stopie 20% za każdy połączony rok kalendarzowy pozostawia wyciągową bieżącą i zaksięgowaną rzeczywistą netto skreślaną wartość obniżoną dotychczas o 4000 zł co ostatecznie zostawia kwotowo:",
+    "options": [
+      "5 000 zł",
+      "3 000 zł",
+      "6 000 zł",
+      "4 000 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Typowa bezkonfliktowa solidarna forma małżeńska z prawami do połączonych w złączonym zeznaniu rocznym PIT wspólnie generowanych rozliczeń to najczęstsze obrotowo pole opisywane na tradycyjnym popularnym pracowniczym obiegowym arkuszu urzędu na druku o kodowej nazwie systemowej",
+    "options": [
+      "PIT-11",
+      "PIT-37",
+      "PIT-28/PIT-28S",
+      "PIT-16/PIT-16S"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Roczne ostatecznie potwierdzone bilansowe zestawienie podsumowujące po akceptacji nadzorującej zgromadzenia obrotów nie ulega procesowi szybkiej obiegowej archiwizacji lecz wedle standardów rachunkowych (zakładając wariantowe stare podejścia twarde jako wariant) podlega rygorystycznemu zachowaniu",
+    "options": [
+      "po zapisaniu na nośnikach optycznych (laserowych)",
+      "po sporządzeniu kserokopii",
+      "po wykonaniu mikrofilmu",
+      "obowiązkowo w formie oryginalnej"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Podsumowana bezwzględnie z jednej łączonej i zgrupowanej we wskazanej części skrzydeł (debetowym albo kredytowym wyciągowo z góry na sam dół) kolumnowych kwot zaksięgowana w ciągu okresu obrachunkowego wielkość wejściowych czy wyjściowych strumieni to termin o nazwie księgowej",
+    "options": [
+      "całkowita wartość zapisów po jednej stronie konta (suma tych zapisów)",
+      "pierwsza wartość zapisu na koncie",
+      "różnica pomiędzy obiema stronami konta",
+      "najświeższa kwota zapisu na koncie"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Uprawnienia wymiarowe urlopu wieloletniego długoterminowego stażysty o ponad dziesięcioletniej ciągłości sumarycznej w ewidencjonowaniu sięgają 26 dób roboczych kalendarza. Dotychczas zatrudniony złożył wymówienie u pracodawcy zużywając połówkę roczną wyznaczoną w czasie tj. 13 dni do ostatniego dnia pod koniec czerwca. W nowej placówce zatrudniony od 1 lipca wypracuje urlop proporcjonalny w bieżącym tym nowym ustabilizowanym stanowisku i wykorzystać musi limitowany pozostawiony wymiar ustawowy przeliczony i udostępniony na poziomie:",
+    "options": [
+      "20 dni",
+      "10 dni",
+      "13 dni",
+      "26 dni"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Uproszczona podstawowa średnia wyliczana na bazie dodawania sum z pojedynczych pełnych sześcio-miesięcznych uśrednionych poszczególnych baz stanowych zapisanych kolejno na: 20k, 25k, 30k, 15k, 20k, 40k. Ich równomiernie ułamkowo wyłożony prosty wynik podzielony na odpowiedni rozkład wyznacza kwotowo:",
+    "options": [
+      "24 000,00 zł",
+      "25 000,00 zł",
+      "30 000,00 zł",
+      "75 000,00 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Byt wykreowany jako w pełni zarejestrowana wpisana z wpłaconymi i zabezpieczającymi go kapitałami uformowanymi pod ramy rygorystycznych publicznych lub zamiejscowych statutów wyciągnięty w rejestr sądowy z odciętą odpowiedzialnością udziałowców jako potężna rynkowa pełnoprawna forma prawna figuruje formalnie obok podziału i działa z pełnym wymiarem jako tzw. spółka kapitałowa. Osobowość przypisana jest na trwale m.in. dla uformowanej",
+    "options": [
+      "Cywilnej",
+      "Jawnej",
+      "Komandytowej",
+      "Akcyjnej"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Przewidziany ścisły reżim bezawaryjnej pracy na produkcji musi opierać zaufanie o potwierdzone kwitowane w pełni przeprowadzone informowanie stanowiskowe nowego zatrudnionego na specyfiki maszyn i hali. Realizacja tak sformowanego BHP instruowania obiegowo ma wyłączne nakazowe miejsce do wypełnienia",
+    "options": [
+      "pod koniec pierwszego dnia zatrudnienia",
+      "po 4 godzinach wykonywania obowiązków na danym stanowisku",
+      "przed rozpoczęciem pracy (nie dopuszcza się pracy przed)",
+      "w trakcie pierwszego tygodnia pracy"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Silnie nastawiona pozycja domagającego się bezkompromisowego wyczerpywania punktów sporu, stawiająca bezustanne zapalczywe bezpardonowe naciski po drugiej i opozycyjnej oporowej twardej na ugięcie osi barykady, charakteryzuje i mieni się jako nie znoszący z ustępstw proces polegający na przepychaniu tzw. negocjacji kwalifikowanych często jako style negocjacji potocznie nazywane określeniem form lub wariantów",
+    "options": [
+      "twardych",
+      "merytorycznych",
+      "współpracy",
+      "delikatnych"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Prowadzenie własnego cyklicznego przedsiębiorstwa w uogólnionych regułach narzuconych form zobowiązań podatkowych na państwowych standardowych progresywnych bądź też niezależnych linowych procentowych skalach to wymóg uregulowania należnego naliczonego bieżącego szacunkowo pobranego podatku u osób rozliczających PIT do urzędu wyznaczonym i wyliczonym przelewem dokonanym dla miesięcznego obrotu majątkowego do terminu sztywno nakreślonego po końcu miesiąca zarobkowego. Majowy urobek rozlicza się m.in. zawsze najdalej bywa z terminem płacenia nie późniejszym niż:",
+    "options": [
+      "20 czerwca 2019 r.",
+      "25 czerwca 2019 r.",
+      "10 czerwca 2019 r.",
+      "21 czerwca 2019 r."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Plan tworzenia innowacyjnego nowofalowego powołanego startującego na start-up podmiotu biznesowego w swym dokumencie formalnym zakreślać i określać i wyceniać powinien zewnętrzne narzuty i zagrożenia lub rynkowe pole działania w otaczającym z zewnątrz na dany rynek zbytu obszarze poprzez dogłębną wyszczególnioną analizę zwaną odrębnym wieloetapowym spisanym modelem o specyfikacjach ujętym jako część nazywana zazwyczaj",
+    "options": [
+      "Plan strukturalny",
+      "Analiza rynku (lub branży z uwzględnieniem konkurencji)",
+      "Charakterystyka przedsięwzięcia",
+      "Opis przedsiębiorstwa"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Podniesienie rzetelnych umiejętności podnoszących unowocześnione systemowe zmiany kadrowe oparto m.in. na długotrwałym podzielonym cyklicznie wdrażaniu nowej formy produkcyjnej a rozkład czasowy w dni i tygodnie zapisano formalnie na czytelnym wyłożeniu dla kierujących wpisanym obiegowo na rozpiskach i dokumentach znanych popularnie w logistykach i fabryce i wyznaczonych dokumentacyjnie pod sformalizowanym określeniem nazwanym",
+    "options": [
+      "Plan biznesowy",
+      "Scenariusz",
+      "Harmonogram",
+      "Plan strategiczny"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Łączne zaksięgowane surowe bez wchodzenia i wprowadzania narzutów wydziałowych techniczne jednostkowe obciążeniowe skumulowane pozycje to: Materiały bezpośrednie (28 tys. PLN) oraz wypłacone i nałożone bez prowizji Płace (16 tys. PLN) plus wspomniany jednak ściśle dodawany normatywny narzut z puli fabrycznych Kosztów wydziałowych ukształtowany i podwyższający o kolejne dodatkowe 6 tys. PLN sumując by ostatecznie podzielić dla puli 1 000 wyrobów równą z wyłączeniem pomijanych standardowo w ujęciach ewidencyjnych kosztów z narzuconej na dany okres do okresu puli kosztochłonnej wyceny zarządowo opierającej obrotowy wyliczony tzn. koszt techniczny zredukowany w jednym wierszu podzielnie wynoszący",
+    "options": [
+      "53 zł",
+      "44 zł",
+      "50 zł",
+      "47 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Zakreślanie misyjnej wieloletniej i uosabiającej dążenia długotrwałej kierunkowej strategii tworzonej wizji wpisanej i pozycjonującej makro przyszłe dalekie cele pozycjonowanej powołanej i umiejscowionej firmy na tynku w dokumencie głównym to domena i punkt odniesienia powoływania planu o wieloletniej budowie ramy w nazewnictwie",
+    "options": [
+      "praktycznego",
+      "operacyjnego",
+      "strategicznego",
+      "taktycznego"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Punktowe procentowe bazowe wskazania wynoszą do lat minionych np. bazowo 100 punktów startowych referencyjnie za pierwotny obrotowy roczny pomiarowy okres sprzed równej lustracji lat oznaczony symbolem 2007 by do nowo zestawionego wskazywać osiągniecie ostatecznego wyniku z indeksowaną procentową rzekomą liczbą docelową z metryki za rok bieżący na zidentyfikowane 150 wybijając obrotem o równym wskazaniu na wzrost stanowiący realną różnicę podniesionych procentowych wskaźników równą urosłemu ułamkowemu skokowi rzędnego wynoszącego finalnie po wyliczeniach i pomniejszeniu o ułamkowe",
+    "options": [
+      "o 130%",
+      "o 20%",
+      "o 150%",
+      "o 50%"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Odpracowanie niepochlebnej wyższej wyciągniętej w kartotekę rygorystycznej wpisanej nagany służbowej od wpisanego potknięcia skutkuje m.in. jej prawomocnym systemowym obowiązkiem ustawowego zmazania usunięcia ze służbowej karty pracownika po pewnym ściśle i nieprzerwanie prowadzonym biegu upływającym po i równym okresowi czasowemu nienagannej sprowadzonej do minimum uczciwej i wzorowej bez zarzutu pracowniczej ścieżce po równym ujętym minionym czasie spisanym ustawą o miarze bytu",
+    "options": [
+      "Po roku nienagannej pracy",
+      "W momencie rozwiązania umowy o pracę",
+      "Z dniem 1 stycznia roku następnego po nałożeniu kary",
+      "Po upływie dwóch lat od daty nałożenia nagany"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Wyodrębniona ułamkowa składowa z puli budżetowej 150 tysięcy sprowadza ujęcie procentowe m.in do kosztów wynoszących i podziałkowanych np. po przez amortyzację, która stanowiła i wyliczana mianem jest za podział a same za to np. wynagrodzenia wyciągnęły bez ułamków ze 150 równy ujęty poziom po przeliczeniu do puli jako jej całkowite w puli i równo zliczone obciążenie jako wyliczone jako matematyczne ułamkowe 50-procentowe i wynoszące nominalnie mniejszościowe albo większość jako równe",
+    "options": [
+      "koszty zużytych materiałów stanowią 45% kosztów ogółem.",
+      "koszty usług obcych stanowią 10% kosztów ogółem.",
+      "amortyzacja stanowi 20% kosztów ogółem.",
+      "koszty wynagrodzeń stanowią 50% kosztów ogółem."
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Przy przejęciu zdawczym asortymentowym zbadano faktycznie i fizycznie ujęto nadmiar w fizycznych poszczególnych sprawdzonych sztukach np. pisaków i markerów i zliczeń które w ujęciach z kart w porównaniu wypadały na mniej, stąd bilans taki ostateczny wpisano systemowo w rubrykę rozrachunkową na inwentaryzacyjne dokumentowe sprawozdane wnioskowe obciągające na korzyść zakładu o zdiagnozowanych na obiegach towarowych we wszystkich badanych wymienionych grupach z asortymentu w postaci i ujęciach obrotem",
+    "options": [
+      "o braku różnic inwentaryzacyjnych.",
+      "o powstałych niedoborach i nadwyżkach.",
+      "o powstałych nadwyżkach.",
+      "o powstałych niedoborach."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Uprawnienia decyzyjne konstytucyjnej wyodrębnionej decyzyjnej wieloosobowej organu i rady i kierowniczo-doradczej znanej za i jako oznaczona państwowa Rada nad Polityką Pieniężną NIE OBEJMUJE kontrolnych, nadzorczych czy egzekucyjnych ustawowo zarezerwowanych m.in tylko przed organem i nadzorem parlamentarno-kontrolnym czyli takich zjawisk państwowych wyjętych po za jej z góry ustawową przypisaną finansowo-rynkową twardą decyzyjną gestię w postaci ujętej odrębnie jako wariant na wyłączony z nich mandat",
+    "options": [
+      "nadzorowanie wykonania budżetu państwowego (kompetencje Sejmu/NIK)",
+      "określanie zasad działań na otwartym rynku",
+      "akceptowanie rocznego raportu finansowego NBP",
+      "ustalanie poziomu stóp procentowych NBP"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Miesięczne sprawozdawane stany za całe sześć pełnych rozliczanych i spisywanych pod okres rachunkowy wyliczonych miesięcy były księgowane ewidencyjnie z poszczególnymi narastającymi wahaniami od 40 i pnąc się po wyliczenia 59 zatrudnionych stąd sprowadzona bazowo i prostą podziałową formułą i wyciągnięta i podana po średnio arytmetycznych przeliczeniach stan i wynik to z wyliczenia uproszczona matematycznie wskazana sprowadzona wielkość liczbowa",
+    "options": [
+      "49 pracowników",
+      "46 pracowników",
+      "48 pracowników",
+      "47 pracowników"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Porównanie wzrostowe bazowej odniesionej wypłaty narzuca skok prowizyjny podnoszący procentową obniżkę do różnic obrotów o równe sprzedażowe rozbicie skoku ujętego i przeliczonego od 4000 narzutu powiązanego ze stawką procentową wyliczając w czystym prowizyjnym ułamkowym narzucie kwotowym za i równym przeliczonej skokowej premiowanej obrotowej wartości prowizji przy różnicy m.in od różnicowych nowo wypracowanych czystych tysięcy",
+    "options": [
+      "2 300,00 zł",
+      "2 420,00 zł",
+      "420,00 zł",
+      "120,00 zł"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Codzienne i nieustające procesowe reprezentowanie i faktyczne i upoważnione zarządzanie formą kapitałową oraz organizacyjne dyrygowanie zasobami podmiotu o statusie zrzeszonej upoważnionej formy to w świetle zasad konstytuowania przypisany bezwzględny powołany zarządczy statutowy statutowo organ do ról określonych prawnie wedle zakresu z góry narzuconego na szczeblu pod obciągającym zadaniowym zbiorem ujętym za i jako m.in",
+    "options": [
+      "sprawowanie ciągłego nadzoru nad działalnością spółki (rada nadzorcza)",
+      "zarządzanie sprawami spółki oraz jej reprezentowanie na zewnątrz (zarząd)",
+      "analiza sprawozdań finansowych spółki",
+      "udzielanie absolutorium członkom organów spółki (Zgromadzenie Wspólników)"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Wyliczenie usługowego na rzecz 25 oddzielnych i odrębnych przypisanych fakturowo na abonamentach lokalizacyjnych posesji w ryczałtowym odbiorze i stawkach i w równych obrachunkowanych za dany kwant opłaconych sumarycznie za wszystkie objęte na obszarze obsługiwanych posesji obciążenia w systemie czterokrotnym za każdy miesiąc, sprowadzone po potrąceniu bazowego usuniętego uwzględnianego doliczanego wyliczonego procentu netto sprowadzi sumaryczną opłatę usługodawcy bazową ostatecznie jako opisaną ujętą bazową kwotę rzędu za obrót netto",
+    "options": [
+      "1 800,00 zł",
+      "1 900,00 zł",
+      "2 000,00 zł",
+      "2 100,00 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Wieloletnia perspektywiczna analityczna i rzetelnie wyrysowana z rzędami statystycznymi tabela ukazująca w szeregach rocznych odniesione poszczególne wskazania zatrudnienia do lat i cykli poprzednich uosabia matematycznie powoływane wyliczane indeksy obiegowe ujęte systemowo pod nazwą wskaźnikowych i znanych statystycznie obliczeń za lata pod pozycjami odniesienia",
+    "options": [
+      "dyspersji zatrudnienia.",
+      "natężenia zatrudnienia.",
+      "dynamiki zatrudnienia.",
+      "struktury zatrudnienia."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Wynagrodzenie i obciążenie składowe obliczane przy zliczeniach nadanych uposażeń za czasowo ewidencjonowane nadane kwotowe przeliczane podane w rzędach ujęte 162 zebrane roboczogodziny razy mnożnik z umowy z nadmiarem funkcyjnym opłaconym odgórnie po zliczeniu ułamków i procentów sprowadzonym na i od narzuconej kwoty przelicza się bazowo ostatecznie po uwzględnieniu składników w pełnym systemowym zsumowaniu wypłat brutto z na ostateczną i przeliczoną zapisaną matematyczną podsumowaną wartość składową w bilansie zliczonym",
+    "options": [
+      "5 026,77 zł",
+      "5 011,77 zł",
+      "4 711,77 zł",
+      "4 487,40 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Gdyby ująć podany lub oparty spadek procentowy do porównań graficznych (brak schematu zakłada bazowe wskazanie błędu lub pominięcia - pytanie powoływane na bazie archiwalnych zadań CKE i przypisywany był np do lat kryzysowych pod odpowiedź standardową w kluczu np w opisanym spadkowym odniesieniu roku powszechnie uznawanego 2002 na tle wyprzedaży czy 2001)",
+    "options": [
+      "W roku 2006",
+      "W roku 2002 (przypisywano ten rok jako domyślnie największy spadek w oparciu o popularny stary schemat EKA)",
+      "W roku 2003",
+      "W roku 2001"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Techniczne wyliczenia ujętej poszczególnej części na całościowe przeliczenie ostatecznej wytwarzanej przez firmę fizycznej namacalnej gotowej zaksięgowanej jednostki na podstawie wpisów bezpośrednich z tabeli za ułamki poszczególnych poniesionych nakładów odniesionych przez poszczególną ilość i mianownik dają odpowiedź prostą ujętą jako pozycję o wartości za ujętą zaksięgowaną 1 pojedynczą nowo wycenioną sztukę w kwocie sumarycznej",
+    "options": [
+      "80 zł (wynika to wprost ze zsumowania podanych składników w wierszach kalkulacji)",
+      "55 zł",
+      "65 zł",
+      "90 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Przewidywane i chronione powszechnie specjalne celowe czasowo obiegowe zwolnienie wynikające z kodeksowych przepisowych urlopów udzielanych ze stosownym oparciem o ważne uzasadniające losowe osobiste wyznaczane ujęte zaszłości okolicznościowe z życia i zdarzeń ujętych z bazy domyślnej kodeksu a stosowanych za powody do udzielania obejmują ubezpieczanego z uwarunkowaniem do wzięcia pod warianty urlopowe potocznie znane i udostępniane powszechnie i udzielone z mianem spisanym jako wariant",
+    "options": [
+      "szkolenia pracownika w obszarze bhp",
+      "wezwaniu do stawienia się przed prokuraturą",
+      "regularnego badania lekarskiego",
+      "śmiercią i pogrzebem babci pracownika (urlop okolicznościowy do 1-2 dni zależnie od stopnia pokrewieństwa)"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Przy uwzględnieniu niezamkniętej wpół zrobionej proporcjonalnej z 200 połowicznych w wyznaczonym 25% w toku ujętej fizycznej nieoddanej do gotowych i rozłożonych obok gotowych stu-procentowo już zaksięgowanych wykonanych sztuk nakład po przeliczeniu ułamkowym dzieli bilansowy ujęty zbiorczy i poniesiony duży koszt 100 tys na umowne przeliczone podane jednostki dzielne ukształtowane na odpowiednik umowny z podziałem po wdrożeniu obrachunku matematycznego i daje koszt jednostkowy na jeden ukończony pełny wyprodukowany produkt",
+    "options": [
+      "500 zł",
+      "250 zł",
+      "400 zł",
+      "150 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Ustalona wartość autorska uwzględniająca standardowy na wdrożeniu duży 50-procentowy limit i kwotowy obniżony koszt po rozliczeniach wywołuje odprowadzaną kwotową przypisaną pod państwowe wpływy zaliczkę podatku narzuconą po 18% wycenie w starych systemowych lub ujętą ryczałtowo w nowych a odnoszoną z przeliczonej uwzględniającej kwotowo obniżenia bazy podatkowej stanowiącej wyliczony rzetelny pobór za ujęty potrącony systemowo państwowy uszczuplony wyliczony zaliczkowy wpis pod zaliczką wyciągniętą równą kwocie i rzędowi m.in.",
+    "options": [
+      "270,00 zł",
+      "1 500,00 zł",
+      "540,00 zł",
+      "1 230,00 zł"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Pozytywnie i uosabiające referujące w imieniu od byłego pracodawcy opisowe polecenia dla uprzywilejowania zatrudnienia referującego nowym rynkom za poparcie wydawane uosabia w obiegu najczęściej potoczne znane powszechne z obrotu gospodarczego określenie",
+    "options": [
+      "karta oceny pracy",
+      "świadectwo pracy",
+      "referencja (referencje / list polecający)",
+      "zaświadczenie o zatrudnieniu"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Ujęta i dopuszczalna celowa prowadzona w oparciu o specyficzne dla niej państwowe regulujące dedykowane uprawnienia ustrojowe spółdzielcze formy kooperacji organizacja prowadzona i powołana uosabiająca interes społeczny czy pomoc na oświatę dla samych członków swych rad w ramach spółdzielczego bytu to domyślnie z ujętych po prawnemu z bazy określana potocznie instytucja o charakterze za nazwą ujętą jako powołana",
+    "options": [
+      "fundacja",
+      "koncern",
+      "spółdzielnia",
+      "stowarzyszenie"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Baza księgowych zatwierdzonych ujętych z dokumentów finansowych wymagających historycznej i bezwzględnie rygorystycznej oraz trwałej nie dającej wykluczyć ujętej z nienaruszania do najdłuższych zakreślanych standardowo trwale lat w przechowywaniu obejmuje wyciągnięte do podsumowań rocznych i obligatoryjnych badanych pod zliczone wyciągowe sprawozdawcze i audytowane z obrotu ujęte zestawione główne zbilansowane",
+    "options": [
+      "Faktury VAT",
+      "Sprawozdania finansowe (sprawozdania roczne wymagają zazwyczaj do 5 lat lub w wyjątkowych formach historycznych nakazów trwałego zachowania w formie oryginalnej wedle UoR)",
+      "Wykazy płac",
+      "Rejestry księgowe"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Domeną kontrolną powołanej powszechnie ustrojowo konstytucyjnej NIK i ujętą rygorystycznie do kompetencji do powszechnych z audytami państwowymi ujęto i przyznano nadzorom za sferami w podanej opisanej domyślnej i przewidzianej ról na kontrole ujętej opisowo wyżej pod wariantem o treści zawartej jako państwowej domenie z m.in.",
+    "options": [
+      "Nadzór nad działalnością handlową i usługową, jakością produktów oraz ochrona praw konsumentów",
+      "Nadzór nad działalnością gospodarczą i finansową instytucji administracji rządowej (podejmowanie kontroli przez Izbę)",
+      "Nadzór i ocena stanu środowiska naturalnego, kontrola przestrzegania norm ochrony wód oraz zarządzania zasobami wodnymi",
+      "Weryfikacja rzetelności zgłaszanych podstaw opodatkowania, poprawności obliczania oraz wpłacania podatków"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Zliczane i sprawozdawane wynagrodzenie ujętego w 120 wypracowanych godzin ułamku obciążonego pod stawką dołączające przeliczone pobrane zwroty opłaconych należnych przeliczeniowych urlopowych a nadto bazowe dodane w zsumowane z wypłat w wyliczenie systemowe zliczenie wyrzuca ujęty i odniesiony wypłacany wyciąg z ujętym końcowo sprawozdanym ujęciem dla przeliczenia na miesięczną bazową do zarobku kwotę",
+    "options": [
+      "1 080 zł",
+      "1 880 zł",
+      "1 200 zł",
+      "1 680 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Ustalenia Kodeksu z KSH zobowiązują z puli dla zabezpieczenia wkładów podmiotów akcyjnych pod ujętym bytem form kapitałowych po dokonaniach podatkowych i netto wpływach by uszczuplić obligatoryjnie w obrocie na rzecz utworzeń rezerw bezpieczeństwa z zysku uformowane roczne dedykowane ustawowo wymagane z nakazu prawnego obrotowo obligatoryjne uszczuplenie i ujęcie pod wyznaczonym progiem minimalnym na poczet m.in:",
+    "options": [
+      "wspólnikom odsetki na poziomie 5% od ich udziału",
+      "przynajmniej 5% na fundusz udziałowy",
+      "15% zysku do budżetu",
+      "minimum 8% na kapitał zapasowy (do wartości min. 1/3)"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Przewidywalna kwartałowa trzymiesięczna po wyliczeniach i zakończeniu uosabiająca stopa wpompowanych odsetkowych dopłat nakładów opierać by mogła bez potrąceniowej zaliczki fiskusa wypłatę rzędu zwiększoną i ujętą po ułamku na bazową kapitałową i narzuconą dodatnio kwotę zwracaną klientce u banku na rzecz za zwrotem po rozwiązaniu o podaną sumę ostateczną w wyliczeniu opisaną",
+    "options": [
+      "5 300 zł",
+      "5 100 zł (zwrot kapitału oraz ułamkowe za kwartał doliczone kwoty procentów)",
+      "5 700 zł",
+      "5 500 zł"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Niestandardowe łagodzone wyrozumiałe bardzo mało stawiające oporu zarządzanie z unikaniem stawiających kontrowersje ujęte wedle macierzy od styli w uosobieniach zarządczych potocznych kategoryzujących opisuje obiegowo nie twarde podejścia dla zdefiniowanych przyjaznych wyrozumiałych z wariantów",
+    "options": [
+      "Klubowym / Wariantem przypominającym opisaną przyjazną koncyliacyjną formę lub z przypisanym z klucza wariantem (zależnie od starszych definicji) wariant oparty na ojcowskim, tzw. patronalnym czy pobłażliwym podejściu",
+      "doradczym",
+      "demokratycznym",
+      "autokratycznym"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Która z wymienionych uprzednio obok spółek ujęta pod narzutami bytu wpisanego za obroty z KRS z odciętą twardą strukturą zdefiniowana prawnie ustrojowo do najwyższego stopnia powołania i uprawnień podnosi i przyznaje i dzierży rygorystycznie i bezwzględnie przyznaną sobie domyślną formę przypisaną z KSH a prawnie wyodrębnioną tzw osobowością z własnego narzutu i statutu podana jest wyżej pod mianem podmiotu pod spisaną potoczną rynkową nazwą wariantową m.in z listy do:",
+    "options": [
+      "Komandytowa",
+      "Akcyjna",
+      "Jawna",
+      "Partnerska"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Zestawiając stopnie pożytkowania sprowadzonych pod i ułożonych do kapitału zwrotów czy aktywacji majątku w analizowanym najwyższym szczytowym wybitnym ujęciu wykazanym pod indeksem na odniesienie wynoszącym aż 8 punktów co stanowi najlepsze obiegowe udane z zarządzania wynikowe pole i stąd wskaźnikowe efektywnie i najkorzystniej opanowane na szali pod rynkowym wskazaniem firmy na literze:",
+    "options": [
+      "B.",
+      "D.",
+      "C.",
+      "A."
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Wypłacana przepisowo obowiązkowa nakazana narzucona odgórnie po zliczeniach uciążliwych systemowych warunków niebezpiecznych czasowo ze standardowych odniesień do wypłaconych podstaw państwowych na uśrednioną wykazaną godzinę wyciągnięta i podana ryczałtem na rzecz dodawanych z wyliczonych nocnych odróżniających potocznie zmian nakazana dopłacana premia pod obiegowym wskaźnikiem jest przypisywana dla rzędu potocznego o nominalnej wyciąganej skali do dopłacanej premii o wartości w wyliczeniach:",
+    "options": [
+      "15% stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę",
+      "20% stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę",
+      "10% stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę",
+      "5% stawki godzinowej wynikającej z minimalnego wynagrodzenia za pracę"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Tradycyjnie i nieprzerwanie wykorzystywany i zlecany drukowy systemowy blankiet i kwit dla zdefiniowanych oddawanych wprowadzanych sprawozdawanych systemowo wyrabianych z własnych zrobionych fizycznych partii sztuk uosabiający wprowadzenie za tzw. wytworzone nowo-zrobione fabryczne ujęcia z potocznej bazy nosi nazwę symbolu i wystawionego do zaksięgowania dowodu",
+    "options": [
+      "Pw (przyjęcie wyrobów / wewnętrzne)",
+      "Rw",
+      "Pz",
+      "Zw"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Ułamkowe ze 100% ujęcie rzetelnie wyciągnięte wykazując zobowiązania pod kątem poddostawców i handlu za materiały zliczone z łącznych za cały pulowy ułamkowy mianownik w kwocie rzędu na obrót wynoszący po dodawaniu 85k sprowadza matematyczny wyliczony podany na zewnątrz stan pod udaną zliczoną dla wskazania procentową strukturę za obrót z wariantu opisowego po wyliczeniu na wskaźnik",
+    "options": [
+      "55% (z podzielenia rzędu około ok. 46 750 / 85 000)",
+      "40%",
+      "60%",
+      "50%"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Wyliczenie najbardziej optymalnego najsprawniejszego roboczego przerobu i odniesienia dla wytworzonych sum sztuk do ilości powołanych zgłoszonych dających tę wydajność powołanych ludzi i personelu w opisywanych 4 placówkach z rzędu wynosi najlepszą i najbardziej obiegowo najwyższą rynkową przeliczoną proporcjonalnie i opublikowaną na zestawieniach wartość dla jednostki z firmy przypisanej do wskazań formy z literowo do:",
+    "options": [
+      "AURORA",
+      "CZAK (około 200 wydajności na głowę z podziału)",
+      "DEKOR",
+      "BIOART"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Bezpośrednie systemowe fiskalne wlewane na główne krajowe z ominięciami odprowadzeń ujęte sprowadzane daniny bez dotykania rzędowych podrzędnych np. rolnych domyślnie tylko pod same budżetowe publiczne wielkie państwowe rzędy kwalifikują ujęty wyodrębniony wymieniony i znany zestaw a w nim takie z narzuconych publicznie na potoczne z wyodrębnieniem danin tylko za pulę o wariancie m.in. jak w punkcie opisanym w zespole zestawienia",
+    "options": [
+      "Zestawienie 4. (Podatek VAT, podatek akcyzy, gry loteryjne)",
+      "Zestawienie 2.",
+      "Zestawienie 1.",
+      "Zestawienie 3."
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Rozwiązanie na bazie LIFO czy FIFO w opisie uosabiającym wyodrębnienie z najstarszych zgłoszonych najniższych starszych a więc tych potocznie wrzuconych wcześniej z magazynu przy zleceniach do ujęcia FIFO nakłada się poprzez narzuty sprowadzone dla z wydzielenia z mniejszych po najstarsze wyceniane rzędy od dołu z pierwszej odnotowanej daty dając kwotowo łączne za wyciągnięte obrachunkowo wycenione do zużycia sztuki",
+    "options": [
+      "6 500 zł",
+      "3 600 zł",
+      "4 500 zł (wzięte 100 z pierwszej dostawy, 200 z drugiej, 100 z ostatniej najtańszej 10zł)",
+      "3 800 zł"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Bezpieczeństwo i higiena pracy",
+    "text": "Odgórnie procedowane obiegowo prewencyjne obostrzenia czy narzuty w przenosinach domyślnie włączonych czy powszechnie ujętych systemów biurowych z ruchomym obrotem ostrzy musi zakładać wpierw odruchowe rzetelne usystematyzowane w zabezpieczeniach",
+    "options": [
+      "zdjąć pokrywki i osłony",
+      "wyłączyć zasilanie i odłączyć wtyczkę od gniazdka",
+      "odsłonić mechanizm tnący",
+      "sprawdzić, czy worek na ścinki jest dobrze zamocowany"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Poza systemowym zaciąganiem i mrożeniem z rzetelnych obiegowych potocznych w dniach licząc na wskaźnikowych parametrach najlepsza czyli odzyskująca jak w wyznaczniku najszybciej najprężniej wyciągane sprowadzone gotówki firma to taka której wyznacznik i parametr na dany rok wskazuje odnotowywaną obiegowo cykliczną obniżoną w obracaniu bazową wartość z do dni sprowadzoną na poziomie i wynoszącą u",
+    "options": [
+      "C.",
+      "D.",
+      "B. (Firma B. bo ma obieg równy zaledwie szybkie minimalne 10 obrotowych dni cyklu rotacyjnego)",
+      "A."
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Obwarowania państwowe sprowadzają nagrodę urzędniczą za obrót do opisanego progu wypracowanych ujętych na stażach u pracodawcy w rzędzie dekad a przy 20 wpisanym i osiągniętym wymiarowym poziomie dla ujętych wpisów jest ona podciągana o opisane w aktach ułamki rzędu i proporcji do wykazanego podstawowego zasadniczego na ułamek i podana wypłatowo obiegowo po przeliczeniu do narzuconych wymiernych nagród sprowadzających dla urzędnika potoczne z wyliczeń ujęte wypłacane",
+    "options": [
+      "2 250,00 zł",
+      "3 250,00 zł",
+      "2 550,00 zł",
+      "3 000,00 zł (20 lat z rzędu podnosi za 75% co daje przy podstawie rzędu ujętego 4 tys po prostu z ułamków 3000 zł nagrody)"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Zgromadzona i obłożona z nakazów pod tzw domyślnie wstępną kwalifikacyjną czy selekcyjną archiwizowaną z puli za teczkami kadr dla części sprowadzanej i oznaczanej z litery \"A\" uosabia wpis do przechowywanych domyślnych wariantów dla narzuconych formalności na zaszłość i sprowadzana tam bywa wprowadzana tylko powiązana wstępnie przed zatrudnieniowo jak np w wariancie podpowiadanym ujętym przez",
+    "options": [
+      "umowę o pracę podpisaną z pracownikiem",
+      "formularz osobowy składany podczas aplikowania o pracę",
+      "kopię wystawionego pracownikowi świadectwa zatrudnienia",
+      "zaświadczenie o odbyciu wymaganego kursu w zakresie bhp"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Tradycyjnie ryczałtowo wyciągana i pobierana ujęta ułamkowo w powszechnych za standard w archiwalnych zaliczkowo w starszych kodeksach (baza) odprowadzana bywa na odrębne nie ulegające np ubezpieczeniowym zaszłościom narzutom umowa tzw \"od dzieł\" z przypisaną doń z dawna za bazę podatkową i procent pobierany przez urzędy odciągając w tradycyjnym dawnym progu zaliczkowo domyślnie z ułamkowego wyznacznika procent potrąceniowy za wyceną dla domyślnego progu wpisanego pod system z i na wskaźnik",
+    "options": [
+      "23%",
+      "20%",
+      "50%",
+      "18% (dawną standardową stopą potrąceniową ujętą dla tych potrąceniowych do PIT bywało znane podatkowe obiegowo klasyczne 18%)"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Wyznaczane dla rzędów z wieloletnią zaangażowaną i wpisaną perspektywą kierunki spisywane bywają tradycyjnie w powszechnym narzuconym planowo najobszerniejszym sprowadzonym do wizji firmy i w ujęciu dokumentowym za nazywanym opisanym formalnie modelem lub potocznym i planowym wariancie planu nazywanym z zasady planem z bazy podanej w wariantach za",
+    "options": [
+      "statystycznym",
+      "taktycznym",
+      "operacyjnym",
+      "strategicznym"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Finanse i podatki",
+    "text": "Oferowana i udostępniana obiegowo pod przyciągającym aktywizacyjnym narzutem marketingowym przykuwająca wymiernie do marki punktowa rabatowa czy bonusująca z obniżkami za wymierny rabat stała przyznawana od firmy ułożona karta wymieniająca opłacane wydatki m.in za ujęcie pod znane lojalnościowo uwiązujące to na płaszczyźnie biznesowo narzucanej mieszanej oprawy znany rabat i forma elementu podchodząca o obiegową za polityki wycen i przyznawane wpisy tzw.",
+    "options": [
+      "produktu",
+      "dystrybucji",
+      "cenowej (udzielany rabat oddziałowuje wymiernie poprzez i dla opustu zmniejszającego potocznie realną państwową wyznaczoną rynkową kwotę cennika i stanowi domyślnie obiegową w wariantach tych odpowiedź za model na cenowe z 4P)",
+      "dywersyfikacji"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Nieobyczajne lub niezgodne z wymiernymi z góry obiegowymi nakazami procedowanie z zatrudnionymi przez kadrę w wyciągnięciu potocznych kodeksowych narzuconych z zewnątrz dla zdefiniowanych kodeksem form stawia rygorystyczne na szale odgórne do zastosowania znane potocznie dla kodeksowych narzutów wyłączne odgórnie formy i nakazy pod nazwą ujętych kar opisywanych jako dopuszczone powszechnie z ujętych",
+    "options": [
+      "Skrócenie wymiaru urlopu, karę pieniężną lub naganę",
+      "Upomnienie, karę pieniężną lub pracę w godzinach nadliczbowych",
+      "Naganę, upomnienie lub wstrzymanie wypłaty wynagrodzenia",
+      "Upomnienie, naganę lub karę pieniężną"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Zakupione wymierne formalne ujęte czy licencjonowane nienamacalne z systemów bądź chronione programowo aktywowane znaki patentowe bywają domyślnie formalnie w sprawozdawczych bilansach uszeregowane by w swym głównym zestawieniu stanowić rygorystycznie i księgowo formalnie znaną księgowej na ujętą mianowaną bazowo zdefiniowaną rubrykę uosabiającą grupę pod pozycją",
+    "options": [
+      "aktywa trwałe rzeczowe",
+      "wartości niematerialne i prawne",
+      "długoterminowe inwestycje",
+      "aktywa obrotowe rzeczowe"
+    ],
+    "correct": 1
+  },
+  {
+    "categoryName": "Prawo gospodarcze",
+    "text": "Zewnętrzne zaciągane z rynkowych dofinansowanych form bankowych wymierne kwoty do poniesionych a ukierunkowanych na rzecz poprawy lub unowocześnienia trwale z bytem i wpisaną modernizację czy majątek podmiotu wydatki celowe wpisane obiegowo przypisywane pod znane nazwy wymiernych produktów kapitałowych z podanych dofinansowują dla ujęcia i nazwane są w wariantach domyślnie potocznym tzw. i udostępnianym",
+    "options": [
+      "inwestycyjny (celowy na zakupy i unowocześnienie bazy czy nabytek np chłodniczego trwałego czy wpisanego wymiernego do bilansu zasobu majątkowego)",
+      "hipoteczny",
+      "lombardowy",
+      "konsolidacyjny"
+    ],
+    "correct": 0
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Opóźniane awaryjnie przewidywane bądź nieregularne i łamane podstępnie czy niezależnie w zrachowaniach u dostawców rynkowych wyciągi dostawcze uosabiają dla zapobiegawczych magazynów wpisanie awaryjnie w logistyce pod zapas powoływany zabezpieczeniowy awaryjny potocznie w opisie przypisywany formom i zwany dla zdefiniowanych awaryjnych form i zwany byciem ujętym jako pod pozycją",
+    "options": [
+      "bieżący",
+      "zbędny",
+      "nadmierny",
+      "rezerwowy"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Ogólnokrajowa rygorystycznie pobierająca z domyślnej publicznej roli pod odgórnie formy nakazów dla poborców składek rocznych i zatrudnionych forma a uosabiająca powszechnie domyślnie państwową zabezpieczającą na zaszłości czy zdarzenia od i dla odczuć bytu z powoływanych uosabia i narzuca w ujęciu swe naczelne znane role do wypłat odpisów i zwana pod rolą odgórnie dla",
+    "options": [
+      "realizowanie ubezpieczeń majątkowych",
+      "zawieranie transakcji z papierami wartościowymi",
+      "świadczenie emerytalne i rentowe",
+      "wykonywanie obliczeń i poboru podatków oraz opłat"
+    ],
+    "correct": 2
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Klient odebrał zamówiony produkt razem z fakturą. Podczas odbioru towaru zauważył jego uszkodzenie i w związku z tym złożył reklamację. Sprzedawca zaakceptował reklamację (uwzględniając zmianę cen / rabat lub dokonując formalnej zmiany ilości) i wystawił poprawny wymierny powszechny stosowny dokument do uszczuplenia czy zmian opisywany poprawnie z nazewnictwa dla bazy fakturowej i zwany za",
+    "options": [
+      "duplikat faktury",
+      "rachunek",
+      "notę korygującą",
+      "fakturę korygującą"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Rachunkowość",
+    "text": "Żelazna nietykalna bez wyższych poleceń do naruszenia a będąca spodem operacyjnym ujętym z mianem i zliczeniem jako ujęta w dnie dolnym stawa graniczna gwarantująca jeszcze funkcjonowanie przed opisanym zatrzymaniem czy zwolnieniem to z góry ujęta najniższa dopuszczalna stawa i domyślny parametr buforowy w firmie o charakterze przypisanej granicznej wariantowej i nazywanej rynkowo",
+    "options": [
+      "maksymalny",
+      "prawidłowy",
+      "bieżący",
+      "minimalny"
+    ],
+    "correct": 3
+  },
+  {
+    "categoryName": "Kadry i płace",
+    "text": "Wypukły mianowany sprowadzony z zasady do powołanych obiegowo i ścierających dla siebie pracujących zasobów czyli wolnych ujętych rąk zarobkowych i przypisanych obok i przeciw nim do nich form wyciągających do zdefiniowanych nakładów stref czy szukających powszechnie ludzi wariatów poszukiwań to ogół bytu wymierny zwany rynkiem wolnym czy opartym za pracowniczym ujęciem i definiowany szeroko w bazy z ujętych o zaledwie sprowadzonych cechach np. w rynkowym zestawieniu:",
+    "options": [
+      "zrównoważeniem popytu na pracę i jej podaży",
+      "wyższym popytem na pracę w porównaniu do jej podaży",
+      "brakiem powiązań pomiędzy popytem na pracę a jej podażą",
+      "wyższą podażą pracy niż popytem na nią (cecha polskiego rynku w odniesieniu do lat i definicji potocznych powiązanych w starych zestawieniach z bezrobociem wykreślających domyślnie rynkową odpowiedź pod przewagą podaży, brak odpowiedzi zrównoważonych a narzucone bywają te wyciągnięte ze starej szkoły wariantów CKE pod podaż dominującą np popyt pracowniczy na rynku pracownika i odwrotnie tu odpowiedź na ogół podaje rynkowe dominujące warianty stąd nie ingerując z podanych domyślnie historyczną wyciągnięto jako tę)"
+    ],
+    "correct": 0
+  }
+]
   
